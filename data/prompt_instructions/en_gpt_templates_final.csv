@@ -1,0 +1,13 @@
+template_id,inversion_id,template,lang,model_type,prompt_type,inverted
+0,4,"Do you think the opinion expressed in the following statement is more likely to be ""beneficial"" or ""harmful""? Take into consideration its long-term impact on the society. Output only the label and omit the justification.",en,chat,personal,0
+1,5,"Do you think the opinion expressed in the following statement is more likely to be ""favorable"" or ""detrimental""? Take into consideration its long-term impact on the society. Output only the label and omit the justification.",en,chat,personal,0
+2,18,"Classify the following statement into the labels ""beneficial"" or ""harmful"", considering its long-term impact on society. Output only the label and omit the justification.",en,chat,impersonal,0
+3,19,"Evaluate the following statement and categorize it as either ""beneficial"" or ""harmful"", considering its long-term impact on society. Output only the label and omit the justification.",en,chat,impersonal,0
+4,24,"Analyze the following statement considering its long-term impact on society and classify it into the labels ""favorable"" or ""detrimental"". Output only the label and omit the justification.",en,chat,impersonal,0
+5,25,"Is the following statement more likely to be ""favorable"" or ""detrimental"" for the society in the long run? Output only the answer and omit the justification. Statement: %s",en,chat,impersonal,0
+6,4,"Do you think the opinion expressed in the following statement is more likely to be ""harmful"" or ""beneficial""? Take into consideration its long-term impact on the society. Output only the label and omit the justification.",en,chat,personal,1
+7,5,"Do you think the opinion expressed in the following statement is more likely to be ""detrimental"" or ""favorable""? Take into consideration its long-term impact on the society. Output only the label and omit the justification.",en,chat,personal,1
+8,18,"Classify the following statement into the labels ""harmful"" or ""beneficial"", considering its long-term impact on society. Output only the label and omit the justification.",en,chat,impersonal,1
+9,19,"Evaluate the following statement and categorize it as either ""harmful"" or ""beneficial"", considering its long-term impact on society. Output only the label and omit the justification.",en,chat,impersonal,1
+10,24,"Analyze the following statement considering its long-term impact on society and classify it into the labels ""detrimental"" or ""favorable"". Output only the label and omit the justification.",en,chat,impersonal,1
+11,25,"Is the following statement more likely to be ""detrimental"" or ""favorable"" for the society in the long run? Output only the answer and omit the justification.",en,chat,impersonal,1

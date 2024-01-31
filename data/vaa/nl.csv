@@ -1,0 +1,901 @@
+statementID,Topic,TopicEN,statement,position,party
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Partij voor de Dieren
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,Partij voor de Dieren
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Partij voor de Dieren
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Partij voor de Dieren
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Partij voor de Dieren
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,Partij voor de Dieren
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,Partij voor de Dieren
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,Partij voor de Dieren
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Partij voor de Dieren
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Partij voor de Dieren
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,Partij voor de Dieren
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Partij voor de Dieren
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,Partij voor de Dieren
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Partij voor de Dieren
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Partij voor de Dieren
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,Partij voor de Dieren
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Partij voor de Dieren
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,Partij voor de Dieren
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Partij voor de Dieren
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Partij voor de Dieren
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,Partij voor de Dieren
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Partij voor de Dieren
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Partij voor de Dieren
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Partij voor de Dieren
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,Partij voor de Dieren
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Partij voor de Dieren
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,Partij voor de Dieren
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Partij voor de Dieren
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,Partij voor de Dieren
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Partij voor de Dieren
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,SGP
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,SGP
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,SGP
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,SGP
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,SGP
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,SGP
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,SGP
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,SGP
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,SGP
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,SGP
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,SGP
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,SGP
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,SGP
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,neutral,SGP
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,SGP
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,SGP
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,SGP
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,SGP
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,SGP
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,SGP
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,SGP
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,SGP
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,SGP
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,SGP
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,SGP
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,neutral,SGP
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,SGP
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,SGP
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,SGP
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,SGP
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,DENK
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,DENK
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,neutral,DENK
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,DENK
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,DENK
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,DENK
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,DENK
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,DENK
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,DENK
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,DENK
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,DENK
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,DENK
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,DENK
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,DENK
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,DENK
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,DENK
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,DENK
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,DENK
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,DENK
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,DENK
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,DENK
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,DENK
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,DENK
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,DENK
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,DENK
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,DENK
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,DENK
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,DENK
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,DENK
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,DENK
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Forum voor Democratie
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Forum voor Democratie
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,Forum voor Democratie
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,agree,Forum voor Democratie
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,Forum voor Democratie
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Forum voor Democratie
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Forum voor Democratie
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Forum voor Democratie
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,Forum voor Democratie
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Forum voor Democratie
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Forum voor Democratie
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,Forum voor Democratie
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Forum voor Democratie
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,Forum voor Democratie
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Forum voor Democratie
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Forum voor Democratie
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Forum voor Democratie
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Forum voor Democratie
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,Forum voor Democratie
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,Forum voor Democratie
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Forum voor Democratie
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Forum voor Democratie
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Forum voor Democratie
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,Forum voor Democratie
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,Forum voor Democratie
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,Forum voor Democratie
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Forum voor Democratie
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,Forum voor Democratie
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Forum voor Democratie
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Forum voor Democratie
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Code Oranje
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Code Oranje
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Code Oranje
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,neutral,Code Oranje
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,Code Oranje
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Code Oranje
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Code Oranje
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Code Oranje
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Code Oranje
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Code Oranje
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Code Oranje
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Code Oranje
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Code Oranje
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,Code Oranje
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,Code Oranje
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Code Oranje
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Code Oranje
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,Code Oranje
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Code Oranje
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,Code Oranje
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Code Oranje
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Code Oranje
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,Code Oranje
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Code Oranje
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,Code Oranje
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Code Oranje
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Code Oranje
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,Code Oranje
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Code Oranje
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Code Oranje
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,NIDA
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,NIDA
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,NIDA
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,NIDA
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,NIDA
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,NIDA
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,NIDA
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,NIDA
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,NIDA
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,NIDA
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,NIDA
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,NIDA
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,NIDA
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,NIDA
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,NIDA
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,NIDA
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,NIDA
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,NIDA
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,NIDA
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,NIDA
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,NIDA
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,NIDA
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,NIDA
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,NIDA
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,NIDA
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,NIDA
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,NIDA
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,NIDA
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,NIDA
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,NIDA
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Piratenpartij
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,Piratenpartij
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Piratenpartij
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Piratenpartij
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,Piratenpartij
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Piratenpartij
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Piratenpartij
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,Piratenpartij
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Piratenpartij
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,Piratenpartij
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Piratenpartij
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Piratenpartij
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,Piratenpartij
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Piratenpartij
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Piratenpartij
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,Piratenpartij
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Piratenpartij
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,Piratenpartij
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Piratenpartij
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Piratenpartij
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,Piratenpartij
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Piratenpartij
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,Piratenpartij
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Piratenpartij
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,Piratenpartij
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Piratenpartij
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,Piratenpartij
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Piratenpartij
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,Piratenpartij
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Piratenpartij
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,Libertaire Partij
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,neutral,Libertaire Partij
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,Libertaire Partij
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,neutral,Libertaire Partij
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Libertaire Partij
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Libertaire Partij
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Libertaire Partij
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Libertaire Partij
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,Libertaire Partij
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,Libertaire Partij
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Libertaire Partij
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Libertaire Partij
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Libertaire Partij
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,neutral,Libertaire Partij
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Libertaire Partij
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Libertaire Partij
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Libertaire Partij
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Libertaire Partij
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Libertaire Partij
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,Libertaire Partij
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,neutral,Libertaire Partij
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Libertaire Partij
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,Libertaire Partij
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Libertaire Partij
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,neutral,Libertaire Partij
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,Libertaire Partij
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Libertaire Partij
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,Libertaire Partij
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Libertaire Partij
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Libertaire Partij
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Splinter
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Splinter
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Splinter
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Splinter
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Splinter
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,Splinter
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,Splinter
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,Splinter
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Splinter
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Splinter
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Splinter
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Splinter
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,Splinter
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Splinter
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Splinter
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Splinter
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Splinter
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,Splinter
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Splinter
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Splinter
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Splinter
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Splinter
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Splinter
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Splinter
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,Splinter
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Splinter
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,Splinter
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Splinter
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Splinter
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Splinter
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,BoerBurgerBeweging
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,BoerBurgerBeweging
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,BoerBurgerBeweging
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,BoerBurgerBeweging
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,BoerBurgerBeweging
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,BoerBurgerBeweging
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,BoerBurgerBeweging
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,BoerBurgerBeweging
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,BoerBurgerBeweging
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,BoerBurgerBeweging
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,BoerBurgerBeweging
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,BoerBurgerBeweging
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,BoerBurgerBeweging
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,BoerBurgerBeweging
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,BoerBurgerBeweging
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,BoerBurgerBeweging
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,BoerBurgerBeweging
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,BoerBurgerBeweging
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,BoerBurgerBeweging
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,BoerBurgerBeweging
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,BoerBurgerBeweging
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,BoerBurgerBeweging
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,BoerBurgerBeweging
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,BoerBurgerBeweging
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,BoerBurgerBeweging
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,BoerBurgerBeweging
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,BoerBurgerBeweging
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,BoerBurgerBeweging
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,BoerBurgerBeweging
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,BoerBurgerBeweging
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Lijs Henk Krol
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Lijs Henk Krol
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,Lijs Henk Krol
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Lijs Henk Krol
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,neutral,Lijs Henk Krol
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,neutral,Lijs Henk Krol
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Lijs Henk Krol
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Lijs Henk Krol
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Lijs Henk Krol
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Lijs Henk Krol
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,neutral,Lijs Henk Krol
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Lijs Henk Krol
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Lijs Henk Krol
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,Lijs Henk Krol
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Lijs Henk Krol
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Lijs Henk Krol
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Lijs Henk Krol
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Lijs Henk Krol
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,Lijs Henk Krol
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,Lijs Henk Krol
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Lijs Henk Krol
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Lijs Henk Krol
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Lijs Henk Krol
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Lijs Henk Krol
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,Lijs Henk Krol
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,Lijs Henk Krol
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,Lijs Henk Krol
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,Lijs Henk Krol
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Lijs Henk Krol
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Lijs Henk Krol
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Oprecht
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Oprecht
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Oprecht
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Oprecht
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,neutral,Oprecht
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Oprecht
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Oprecht
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Oprecht
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Oprecht
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Oprecht
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,neutral,Oprecht
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Oprecht
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Oprecht
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,neutral,Oprecht
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Oprecht
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Oprecht
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Oprecht
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Oprecht
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,Oprecht
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Oprecht
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Oprecht
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,Oprecht
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Oprecht
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",neutral,Oprecht
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,Oprecht
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Oprecht
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Oprecht
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",neutral,Oprecht
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Oprecht
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Oprecht
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Jezus Leeft
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,Jezus Leeft
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,Jezus Leeft
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,agree,Jezus Leeft
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Jezus Leeft
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,Jezus Leeft
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Jezus Leeft
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Jezus Leeft
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,Jezus Leeft
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Jezus Leeft
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Jezus Leeft
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Jezus Leeft
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,Jezus Leeft
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Jezus Leeft
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Jezus Leeft
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Jezus Leeft
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Jezus Leeft
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Jezus Leeft
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Jezus Leeft
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Jezus Leeft
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,neutral,Jezus Leeft
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,Jezus Leeft
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Jezus Leeft
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,Jezus Leeft
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,Jezus Leeft
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,Jezus Leeft
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Jezus Leeft
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Jezus Leeft
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Jezus Leeft
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Jezus Leeft
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Trots op Nederland
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Trots op Nederland
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Trots op Nederland
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Trots op Nederland
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Trots op Nederland
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Trots op Nederland
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Trots op Nederland
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Trots op Nederland
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Trots op Nederland
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Trots op Nederland
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Trots op Nederland
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Trots op Nederland
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Trots op Nederland
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,Trots op Nederland
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Trots op Nederland
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Trots op Nederland
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Trots op Nederland
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,Trots op Nederland
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,Trots op Nederland
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,Trots op Nederland
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Trots op Nederland
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Trots op Nederland
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Trots op Nederland
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Trots op Nederland
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,Trots op Nederland
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Trots op Nederland
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Trots op Nederland
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Trots op Nederland
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Trots op Nederland
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Trots op Nederland
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Lijst30
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,Lijst30
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Lijst30
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,neutral,Lijst30
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,Lijst30
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,Lijst30
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Lijst30
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,Lijst30
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,Lijst30
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Lijst30
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,Lijst30
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Lijst30
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,Lijst30
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Lijst30
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,Lijst30
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,Lijst30
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Lijst30
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Lijst30
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Lijst30
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,Lijst30
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Lijst30
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Lijst30
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Lijst30
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Lijst30
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,Lijst30
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Lijst30
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,Lijst30
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Lijst30
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,Lijst30
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,agree,Lijst30
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,JA21
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,JA21
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,JA21
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,JA21
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,neutral,JA21
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,JA21
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,JA21
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,JA21
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,JA21
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,JA21
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,JA21
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,JA21
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,JA21
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,neutral,JA21
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,JA21
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,JA21
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,JA21
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,JA21
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,JA21
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,JA21
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,JA21
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,JA21
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,JA21
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,JA21
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,JA21
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,JA21
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,JA21
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,JA21
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,JA21
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,neutral,JA21
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,VVD
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,VVD
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,VVD
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,VVD
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,neutral,VVD
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,VVD
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,VVD
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,VVD
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,VVD
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,VVD
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,VVD
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,VVD
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,VVD
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,VVD
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,VVD
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,VVD
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,VVD
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,neutral,VVD
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,VVD
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,VVD
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,VVD
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,neutral,VVD
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,VVD
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,VVD
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,VVD
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,VVD
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,VVD
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,VVD
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,VVD
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,VVD
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,PVV
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,PVV
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,disagree,PVV
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,agree,PVV
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,PVV
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,PVV
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,PVV
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,agree,PVV
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,neutral,PVV
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,PVV
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,PVV
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,PVV
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,PVV
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,neutral,PVV
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,PVV
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,PVV
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,PVV
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,PVV
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,PVV
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,PVV
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,PVV
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,PVV
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,PVV
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",neutral,PVV
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,PVV
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,PVV
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,PVV
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,PVV
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,PVV
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,PVV
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,CDA
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,CDA
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,CDA
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,CDA
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,CDA
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,CDA
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,CDA
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,CDA
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,CDA
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,CDA
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,CDA
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,CDA
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,CDA
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,CDA
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,CDA
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,CDA
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,CDA
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,CDA
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,CDA
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,CDA
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,CDA
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,CDA
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,CDA
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,CDA
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,CDA
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,CDA
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,agree,CDA
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,CDA
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,CDA
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,CDA
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,D66
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,D66
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,D66
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,D66
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,D66
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,D66
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,D66
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,D66
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,D66
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,D66
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,D66
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,D66
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,D66
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,D66
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,D66
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,D66
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,D66
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,D66
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,D66
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,D66
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,D66
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,D66
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,D66
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,D66
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,D66
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,D66
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,D66
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,D66
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,D66
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,D66
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,GroenLinks
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,GroenLinks
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,GroenLinks
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,GroenLinks
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,GroenLinks
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,GroenLinks
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,GroenLinks
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,GroenLinks
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,GroenLinks
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,GroenLinks
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,GroenLinks
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,GroenLinks
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,GroenLinks
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,neutral,GroenLinks
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,GroenLinks
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,GroenLinks
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,GroenLinks
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,GroenLinks
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,GroenLinks
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,GroenLinks
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,GroenLinks
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,GroenLinks
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,GroenLinks
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,GroenLinks
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,GroenLinks
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,GroenLinks
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,GroenLinks
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,GroenLinks
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,GroenLinks
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,GroenLinks
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,SP
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,SP
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,SP
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,SP
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,disagree,SP
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,SP
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,SP
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,SP
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,SP
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,SP
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,neutral,SP
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,SP
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,SP
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,SP
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,SP
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,SP
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,SP
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,SP
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,SP
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,SP
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,SP
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,SP
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,neutral,SP
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,SP
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,SP
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,SP
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,SP
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,SP
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,SP
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,SP
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,Partij van de Arbeid
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Partij van de Arbeid
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Partij van de Arbeid
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Partij van de Arbeid
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Partij van de Arbeid
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,Partij van de Arbeid
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,Partij van de Arbeid
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,Partij van de Arbeid
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,Partij van de Arbeid
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,Partij van de Arbeid
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,Partij van de Arbeid
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,Partij van de Arbeid
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,Partij van de Arbeid
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Partij van de Arbeid
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,Partij van de Arbeid
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,Partij van de Arbeid
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,Partij van de Arbeid
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,Partij van de Arbeid
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Partij van de Arbeid
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Partij van de Arbeid
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,Partij van de Arbeid
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Partij van de Arbeid
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,Partij van de Arbeid
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,Partij van de Arbeid
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,Partij van de Arbeid
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,Partij van de Arbeid
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,Partij van de Arbeid
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Partij van de Arbeid
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,Partij van de Arbeid
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,Partij van de Arbeid
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,ChristenUnie
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,ChristenUnie
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,neutral,ChristenUnie
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,ChristenUnie
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,ChristenUnie
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,ChristenUnie
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,ChristenUnie
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,ChristenUnie
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,ChristenUnie
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,ChristenUnie
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,ChristenUnie
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,ChristenUnie
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,ChristenUnie
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,ChristenUnie
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,ChristenUnie
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,ChristenUnie
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,ChristenUnie
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,ChristenUnie
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,ChristenUnie
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,ChristenUnie
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,ChristenUnie
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,disagree,ChristenUnie
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,ChristenUnie
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,ChristenUnie
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,ChristenUnie
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,ChristenUnie
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,neutral,ChristenUnie
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,ChristenUnie
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,ChristenUnie
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,ChristenUnie
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,50PLUS
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,50PLUS
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,50PLUS
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,50PLUS
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,50PLUS
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,50PLUS
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,50PLUS
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,50PLUS
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,50PLUS
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,50PLUS
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,50PLUS
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,50PLUS
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,50PLUS
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,50PLUS
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,50PLUS
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,50PLUS
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,50PLUS
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,50PLUS
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,50PLUS
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,50PLUS
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,50PLUS
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,50PLUS
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,50PLUS
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,50PLUS
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,50PLUS
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,50PLUS
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,50PLUS
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,50PLUS
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,50PLUS
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,50PLUS
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,BIj1
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,disagree,BIj1
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,BIj1
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,BIj1
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,BIj1
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,BIj1
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,disagree,BIj1
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,BIj1
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,BIj1
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,BIj1
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,BIj1
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,BIj1
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,BIj1
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,BIj1
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,BIj1
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,BIj1
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,BIj1
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,BIj1
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,BIj1
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,BIj1
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,BIj1
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,BIj1
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,BIj1
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,BIj1
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,BIj1
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,BIj1
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,BIj1
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,BIj1
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,BIj1
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,BIj1
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,Volt
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,Volt
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,Volt
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,Volt
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,Volt
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,Volt
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,Volt
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,Volt
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,disagree,Volt
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,Volt
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,Volt
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,Volt
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,Volt
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,Volt
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,Volt
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,Volt
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,disagree,Volt
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,disagree,Volt
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,Volt
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,Volt
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,Volt
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,Volt
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,Volt
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",neutral,Volt
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,Volt
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,disagree,Volt
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,Volt
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,Volt
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,Volt
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,Volt
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,JONG
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,neutral,JONG
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,JONG
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,JONG
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,JONG
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,JONG
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,JONG
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,neutral,JONG
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,JONG
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,JONG
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,JONG
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,disagree,JONG
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,agree,JONG
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,JONG
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,JONG
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,JONG
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,JONG
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,JONG
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,JONG
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,JONG
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,JONG
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,JONG
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,JONG
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,JONG
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,disagree,JONG
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,JONG
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,JONG
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,JONG
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,disagree,JONG
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,JONG
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,agree,NLBeter
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,NLBeter
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,NLBeter
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,NLBeter
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,NLBeter
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,disagree,NLBeter
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,NLBeter
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,NLBeter
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,NLBeter
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,disagree,NLBeter
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,disagree,NLBeter
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,NLBeter
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,neutral,NLBeter
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,disagree,NLBeter
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",disagree,NLBeter
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,disagree,NLBeter
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,NLBeter
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,NLBeter
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,agree,NLBeter
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,agree,NLBeter
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,agree,NLBeter
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,NLBeter
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,agree,NLBeter
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",disagree,NLBeter
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,agree,NLBeter
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,NLBeter
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,NLBeter
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",disagree,NLBeter
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,NLBeter
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,NLBeter
+1, Vaccinatiebewijs ,Vaccination certificate,Organisatoren van evenementen moeten bij de toegang een vaccinatiebewijs kunnen vragen.,disagree,U-Buntu Connceted Front
+2, Defensiebudget ,Defense budget,Nederland moet meer geld uitgeven aan  defensie.,agree,U-Buntu Connceted Front
+3, Gratis kinderopvang ,Free childcare,Kinderopvang moet voor alle ouders ten minste drie dagen in de week gratis worden.,agree,U-Buntu Connceted Front
+4, Nederland uit EU ,Netherlands leaving the EU,Nederland moet uit de Europese Unie (EU) stappen.,disagree,U-Buntu Connceted Front
+5, Rekeningrijden ,Road pricing,In plaats van de belasting op autobezit moet er voor automobilisten een belasting komen per gereden kilometer.,agree,U-Buntu Connceted Front
+6, Vuurwerk ,Fireworks,Aankomende jaarwisseling moet het weer toegestaan zijn om siervuurwerk af te steken.,agree,U-Buntu Connceted Front
+7, Vleesbelasting ,Meat tax,Er moet een extra belasting komen op het kopen van vlees.,agree,U-Buntu Connceted Front
+8, Publieke omroep ,Public broadcasting,Er moet minder geld naar de publieke omroep.,disagree,U-Buntu Connceted Front
+9, Zorgfonds ,Healthcare fund,In plaats van de bestaande zorgverzekeraars moet er een landelijk zorgfonds komen voor iedereen.,agree,U-Buntu Connceted Front
+10, Gezichtsbedekkende kleding ,Face-covering clothing,De regering moet het verbod op gezichtsbedekkende kleding afschaffen.,agree,U-Buntu Connceted Front
+11, Volkshuisvesting ,Public housing,In plaats van provincies en gemeenten moet de landelijke overheid beslissen waar nieuwe woonwijken worden gebouwd.,agree,U-Buntu Connceted Front
+12, Btw op kunst en cultuur ,VAT on arts and culture,De regering moet de btw op culturele activiteiten verlagen naar 5 procent.,agree,U-Buntu Connceted Front
+13, Kerncentrale ,Nuclear power plant,Nederland moet een nieuwe kerncentrale bouwen.,disagree,U-Buntu Connceted Front
+14, Woningen op landbouwgrond ,Housing on agricultural land,Er moeten woningen worden gebouwd op grond die nu voor landbouw wordt gebruikt.,agree,U-Buntu Connceted Front
+15, Belastingvoordeel huishoudens ,Household tax benefits,"Huishoudens met twee partners waarvan er één werkt, moeten net zoveel belastingvoordeel krijgen als huishoudens met twee werkende partners.",agree,U-Buntu Connceted Front
+16, Excuses slavenhandel ,Apology for the slave trade,De Nederlandse regering moet excuses aanbieden voor de slavenhandel in het verleden.,agree,U-Buntu Connceted Front
+17, Correctief referendum ,Corrective referendum,Burgers moeten de mogelijkheid krijgen om door het parlement aangenomen wetten tegen te houden via een referendum.,agree,U-Buntu Connceted Front
+18, Inkomen leraren ,Teacher salaries,Leraren op basisscholen moeten net zoveel gaan verdienen als leraren op middelbare scholen.,agree,U-Buntu Connceted Front
+19, Gevangenisstraffen ,Prison sentences,Er moeten minder mogelijkheden komen om taakstraffen op te leggen in plaats van gevangenisstraffen.,disagree,U-Buntu Connceted Front
+20, Vliegbelasting ,Air travel tax,Nederland moet een extra vliegbelasting invoeren voor korte-afstandsvluchten.,disagree,U-Buntu Connceted Front
+21, Inburgering op locatie ,Location-based integration,Asielzoekers met een voorlopige verblijfsvergunning moeten eerst inburgeren voordat zij een huurwoning krijgen.,disagree,U-Buntu Connceted Front
+22, Legalisering softdrugs ,Legalization of soft drugs,Zowel inkoop als verkoop van softdrugs door coffeeshops moet legaal worden.,agree,U-Buntu Connceted Front
+23, Nederlandstalig hoger onderwijs ,Dutch-language higher education,De overheid moet onderwijs in het Nederlands vaker verplicht stellen op universiteiten en hogescholen.,disagree,U-Buntu Connceted Front
+24, Voltooid leven ,Completed life,"Mensen die hun leven voltooid vinden, moeten hulp kunnen krijgen bij zelfdoding.",agree,U-Buntu Connceted Front
+25, Koppeling minimumloon en bijstand ,Minimum wage and welfare linkage,Verhoging van de minimumlonen moet niet langer automatisch leiden tot verhoging van de bijstandsuitkeringen.,neutral,U-Buntu Connceted Front
+26, Sociale huurwoningen ,Social housing,Nieuwbouwwijken moeten voor ten minste 40 procent bestaan uit sociale huurwoningen.,agree,U-Buntu Connceted Front
+27, Boerenbedrijven ,Farming businesses,Er moeten geen nieuwe beperkingen komen op de activiteiten van boerenbedrijven.,disagree,U-Buntu Connceted Front
+28, Middenschool ,Middle school,"Er moet een middenschool komen, zodat leerlingen op latere leeftijd de keuze maken tussen vmbo, havo of vwo.",agree,U-Buntu Connceted Front
+29, Vluchtelingen opnemen ,Accepting refugees,Nederland moet meer vluchtelingen opnemen dan het nu doet.,agree,U-Buntu Connceted Front
+30, Mondkapjesplicht ,Face mask mandate,Mensen moeten altijd zelf kunnen kiezen of ze een mondkapje dragen. ,disagree,U-Buntu Connceted Front

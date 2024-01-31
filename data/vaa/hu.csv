@@ -1,0 +1,241 @@
+statementID,statement,Topic,position,party
+1,Az EU jogállamisági mechanizmusa Magyarország szuverenitását veszélyezteti.,EU/Foreign Policy,disagree,Hatpárt
+2,A magyar külpolitikát kizárólag a magyar gazdasági érdekek vezéreljék.,EU/Foreign Policy,disagree,Hatpárt
+3,"Magyarország népszavazással döntsön arról, hogy továbbra is az EU része maradjon.",Identity policy,disagree,Hatpárt
+4,"A nemi identitás környezeti ráhatással (pl. médiatartalmak, érzékenyítő foglalkozások) befolyásolható.",Identity policy,disagree,Hatpárt
+5,A külföldi szervezetek által támogatott NGO-k munkájának erősebb állami szabályozására van szükség.,Domestic policy,disagree,Hatpárt
+6,Magyarország csatlakozzon az Európai Ügyészséghez.,Domestic policy,agree,Hatpárt
+7,A lehallgató szoftverek (pl. Pegasus) szigorúbb szabályozására (pl. bírói engedélyhez kötés) van szükség.,Domestic policy,agree,Hatpárt
+8,A hatékonyabb bűnüldözés érdekében szükséges a bűnözők származásának nyilvánosságra hozatala.,Domestic policy,disagree,Hatpárt
+9,A tankötelezettségi korhatár legyen újra 18 év.,Education policy,agree,Hatpárt
+10,"Az oktatásra fordított kiadásokat legalább az OECD 5,2 százalékos (GDP) átlagértékére kell növelni.",Education policy,agree,Hatpárt
+11,A pedagógusi béreket meg kell duplázni.,Education policy,agree,Hatpárt
+12,Az egyetemi modellváltással (vagyonkezelői alapítványi formába történő átszervezés) csökkent a politikai befolyás.,Education policy,disagree,Hatpárt
+13,Kizárólag férfi és nő köthessen házasságot.,Gender equality,disagree,Hatpárt
+14,"A pártok törekedjenek arra, hogy listaállításnál a férfiak és nők aránya közelítsen egymáshoz.",Gender equality,agree,Hatpárt
+15,"Az állam célzott intézkedésekkel támogassa, hogy az apák és anyák egyenlő mértékben vehessék ki részüket a gyereknevelésben.",Gender equality,agree,Hatpárt
+16,"A magyar kormány ratifikálja az Isztambuli Egyezményt, amely a nők elleni és a családon belüli erőszak ellen lép fel.",Gender equality,disagree,Hatpárt
+17,A rezsicsökkentés egyik hatékony módja a kedvező gázszállítási szerződések kötése Oroszországgal.,Economic policy,disagree,Hatpárt
+18,"Szükség van átfogó közbeszerzési reformra (pl. nagyértékű, központosított közbeszerzések megnyitása kisebb cégek előtt is).",Economic policy,agree,Hatpárt
+19,A tehetősebbek nagyobb mértékben járuljanak hozzá a közterhek viseléséhez (egysávos adó eltörlése).,Economic policy,agree,Hatpárt
+20,A közmunka segíti a munkaerőpiacra való visszatérést.,Economic policy,disagree,Hatpárt
+21,"Egyes alapvető élelmiszerek (pl. csirke far-hát, tej) árstopja helyes lépés az infláció elleni küzdelemben.",Economic policy,disagree,Hatpárt
+22,A lakásbérleti piac állami szabályozására nincs szükség.,social policy,agree,Hatpárt
+23,A jelenleg három hónapig járó álláskeresési járadék meghosszabbítása szükséges.,social policy,agree,Hatpárt
+24,"A családi adókedvezmény jobb megoldás a családok támogatására, mint a családi pótlék növelése.",Family policy,disagree,Hatpárt
+25,"Helyes, hogy a szülők és az óvodapedagógusok helyett a hatodik életévét betöltő gyerek iskolakezdési érettségéről az Oktatási Hivatal dönt.",Family policy,disagree,Hatpárt
+26,Legyen az egészségügyi magánszolgáltatás TB-támogatott alapon is hozzáférhető.,Healthcare,agree,Hatpárt
+27,"Gyermeküket, idős hozzátartozóikat, házastársaikat otthongondozók gondozási díját a mindenkori minimálbérhez kell igazítani.",Healthcare,agree,Hatpárt
+28,Legyen az orvosi kannabisz használata legalizálva Magyarországon.,Healthcare,disagree,Hatpárt
+29,Önálló Egészségügyi Minisztériumot kell létrehozni.,Healthcare,agree,Hatpárt
+30,A magyar köztársasági elnököt/elnöknőt közvetlenül lehessen megválasztani.,Democracy,agree,Hatpárt
+31,"A választási rendszer átfogó reformjára (körzethatárok újrarajzolása, győztes kompenzáció eltörlése, levélszavazás kibővítése) szükség van.",Democracy,agree,Hatpárt
+32,Az előválasztásnak jogszabályi kereteket kell biztosítani.,Democracy,disagree,Hatpárt
+33,A választásokon 16 éves kortól lehessen szavazni.,Democracy,disagree,Hatpárt
+34,Az internet legyen mindenki számára ingyenesen elérhető.,Digitalization,agree,Hatpárt
+35,Minden az állami közoktatásban résztvevő diáknak (18 éves korig) az állam ingyenes biztosítson laptopot vagy tabletet.,Digitalization,agree,Hatpárt
+36,A környezetszennyező cégeket magasabb adóval kell terhelni.,Environmental policy,agree,Hatpárt
+37,"Nagyobb városokban szükséges az autós forgalom korlátozása különböző intézkedésekkel (P+R parkolók, bicikliutak építése, tömegközlekedés fejlesztése).",Environmental policy,agree,Hatpárt
+38,A városi zöld területek (pl. a budapesti Liget Projekt) átalakításánál széleskörű társadalmi párbeszédre van szükség.,Environmental policy,agree,Hatpárt
+39,Szükség van önálló környezetvédelmi minisztériumra.,Environmental policy,agree,Hatpárt
+40,Be kell vezetni az állati jogok biztosa intézményét.,Environmental policy,agree,Hatpárt
+1,Az EU jogállamisági mechanizmusa Magyarország szuverenitását veszélyezteti.,EU/Foreign Policy,disagree,ISZOMM
+2,A magyar külpolitikát kizárólag a magyar gazdasági érdekek vezéreljék.,EU/Foreign Policy,disagree,ISZOMM
+3,"Magyarország népszavazással döntsön arról, hogy továbbra is az EU része maradjon.",Identity policy,disagree,ISZOMM
+4,"A nemi identitás környezeti ráhatással (pl. médiatartalmak, érzékenyítő foglalkozások) befolyásolható.",Identity policy,disagree,ISZOMM
+5,A külföldi szervezetek által támogatott NGO-k munkájának erősebb állami szabályozására van szükség.,Domestic policy,disagree,ISZOMM
+6,Magyarország csatlakozzon az Európai Ügyészséghez.,Domestic policy,agree,ISZOMM
+7,A lehallgató szoftverek (pl. Pegasus) szigorúbb szabályozására (pl. bírói engedélyhez kötés) van szükség.,Domestic policy,agree,ISZOMM
+8,A hatékonyabb bűnüldözés érdekében szükséges a bűnözők származásának nyilvánosságra hozatala.,Domestic policy,disagree,ISZOMM
+9,A tankötelezettségi korhatár legyen újra 18 év.,Education policy,agree,ISZOMM
+10,"Az oktatásra fordított kiadásokat legalább az OECD 5,2 százalékos (GDP) átlagértékére kell növelni.",Education policy,agree,ISZOMM
+11,A pedagógusi béreket meg kell duplázni.,Education policy,agree,ISZOMM
+12,Az egyetemi modellváltással (vagyonkezelői alapítványi formába történő átszervezés) csökkent a politikai befolyás.,Education policy,disagree,ISZOMM
+13,Kizárólag férfi és nő köthessen házasságot.,Gender equality,agree,ISZOMM
+14,"A pártok törekedjenek arra, hogy listaállításnál a férfiak és nők aránya közelítsen egymáshoz.",Gender equality,agree,ISZOMM
+15,"Az állam célzott intézkedésekkel támogassa, hogy az apák és anyák egyenlő mértékben vehessék ki részüket a gyereknevelésben.",Gender equality,agree,ISZOMM
+16,"A magyar kormány ratifikálja az Isztambuli Egyezményt, amely a nők elleni és a családon belüli erőszak ellen lép fel.",Gender equality,agree,ISZOMM
+17,A rezsicsökkentés egyik hatékony módja a kedvező gázszállítási szerződések kötése Oroszországgal.,Economic policy,agree,ISZOMM
+18,"Szükség van átfogó közbeszerzési reformra (pl. nagyértékű, központosított közbeszerzések megnyitása kisebb cégek előtt is).",Economic policy,agree,ISZOMM
+19,A tehetősebbek nagyobb mértékben járuljanak hozzá a közterhek viseléséhez (egysávos adó eltörlése).,Economic policy,agree,ISZOMM
+20,A közmunka segíti a munkaerőpiacra való visszatérést.,Economic policy,disagree,ISZOMM
+21,"Egyes alapvető élelmiszerek (pl. csirke far-hát, tej) árstopja helyes lépés az infláció elleni küzdelemben.",Economic policy,disagree,ISZOMM
+22,A lakásbérleti piac állami szabályozására nincs szükség.,social policy,agree,ISZOMM
+23,A jelenleg három hónapig járó álláskeresési járadék meghosszabbítása szükséges.,social policy,agree,ISZOMM
+24,"A családi adókedvezmény jobb megoldás a családok támogatására, mint a családi pótlék növelése.",Family policy,disagree,ISZOMM
+25,"Helyes, hogy a szülők és az óvodapedagógusok helyett a hatodik életévét betöltő gyerek iskolakezdési érettségéről az Oktatási Hivatal dönt.",Family policy,disagree,ISZOMM
+26,Legyen az egészségügyi magánszolgáltatás TB-támogatott alapon is hozzáférhető.,Healthcare,disagree,ISZOMM
+27,"Gyermeküket, idős hozzátartozóikat, házastársaikat otthongondozók gondozási díját a mindenkori minimálbérhez kell igazítani.",Healthcare,agree,ISZOMM
+28,Legyen az orvosi kannabisz használata legalizálva Magyarországon.,Healthcare,agree,ISZOMM
+29,Önálló Egészségügyi Minisztériumot kell létrehozni.,Healthcare,disagree,ISZOMM
+30,A magyar köztársasági elnököt/elnöknőt közvetlenül lehessen megválasztani.,Democracy,agree,ISZOMM
+31,"A választási rendszer átfogó reformjára (körzethatárok újrarajzolása, győztes kompenzáció eltörlése, levélszavazás kibővítése) szükség van.",Democracy,agree,ISZOMM
+32,Az előválasztásnak jogszabályi kereteket kell biztosítani.,Democracy,disagree,ISZOMM
+33,A választásokon 16 éves kortól lehessen szavazni.,Democracy,agree,ISZOMM
+34,Az internet legyen mindenki számára ingyenesen elérhető.,Digitalization,agree,ISZOMM
+35,Minden az állami közoktatásban résztvevő diáknak (18 éves korig) az állam ingyenes biztosítson laptopot vagy tabletet.,Digitalization,agree,ISZOMM
+36,A környezetszennyező cégeket magasabb adóval kell terhelni.,Environmental policy,disagree,ISZOMM
+37,"Nagyobb városokban szükséges az autós forgalom korlátozása különböző intézkedésekkel (P+R parkolók, bicikliutak építése, tömegközlekedés fejlesztése).",Environmental policy,agree,ISZOMM
+38,A városi zöld területek (pl. a budapesti Liget Projekt) átalakításánál széleskörű társadalmi párbeszédre van szükség.,Environmental policy,agree,ISZOMM
+39,Szükség van önálló környezetvédelmi minisztériumra.,Environmental policy,disagree,ISZOMM
+40,Be kell vezetni az állati jogok biztosa intézményét.,Environmental policy,agree,ISZOMM
+1,Az EU jogállamisági mechanizmusa Magyarország szuverenitását veszélyezteti.,EU/Foreign Policy,disagree,MI HAZÁNK
+2,A magyar külpolitikát kizárólag a magyar gazdasági érdekek vezéreljék.,EU/Foreign Policy,agree,MI HAZÁNK
+3,"Magyarország népszavazással döntsön arról, hogy továbbra is az EU része maradjon.",Identity policy,agree,MI HAZÁNK
+4,"A nemi identitás környezeti ráhatással (pl. médiatartalmak, érzékenyítő foglalkozások) befolyásolható.",Identity policy,agree,MI HAZÁNK
+5,A külföldi szervezetek által támogatott NGO-k munkájának erősebb állami szabályozására van szükség.,Domestic policy,agree,MI HAZÁNK
+6,Magyarország csatlakozzon az Európai Ügyészséghez.,Domestic policy,disagree,MI HAZÁNK
+7,A lehallgató szoftverek (pl. Pegasus) szigorúbb szabályozására (pl. bírói engedélyhez kötés) van szükség.,Domestic policy,agree,MI HAZÁNK
+8,A hatékonyabb bűnüldözés érdekében szükséges a bűnözők származásának nyilvánosságra hozatala.,Domestic policy,agree,MI HAZÁNK
+9,A tankötelezettségi korhatár legyen újra 18 év.,Education policy,agree,MI HAZÁNK
+10,"Az oktatásra fordított kiadásokat legalább az OECD 5,2 százalékos (GDP) átlagértékére kell növelni.",Education policy,agree,MI HAZÁNK
+11,A pedagógusi béreket meg kell duplázni.,Education policy,agree,MI HAZÁNK
+12,Az egyetemi modellváltással (vagyonkezelői alapítványi formába történő átszervezés) csökkent a politikai befolyás.,Education policy,disagree,MI HAZÁNK
+13,Kizárólag férfi és nő köthessen házasságot.,Gender equality,agree,MI HAZÁNK
+14,"A pártok törekedjenek arra, hogy listaállításnál a férfiak és nők aránya közelítsen egymáshoz.",Gender equality,disagree,MI HAZÁNK
+15,"Az állam célzott intézkedésekkel támogassa, hogy az apák és anyák egyenlő mértékben vehessék ki részüket a gyereknevelésben.",Gender equality,disagree,MI HAZÁNK
+16,"A magyar kormány ratifikálja az Isztambuli Egyezményt, amely a nők elleni és a családon belüli erőszak ellen lép fel.",Gender equality,agree,MI HAZÁNK
+17,A rezsicsökkentés egyik hatékony módja a kedvező gázszállítási szerződések kötése Oroszországgal.,Economic policy,disagree,MI HAZÁNK
+18,"Szükség van átfogó közbeszerzési reformra (pl. nagyértékű, központosított közbeszerzések megnyitása kisebb cégek előtt is).",Economic policy,agree,MI HAZÁNK
+19,A tehetősebbek nagyobb mértékben járuljanak hozzá a közterhek viseléséhez (egysávos adó eltörlése).,Economic policy,agree,MI HAZÁNK
+20,A közmunka segíti a munkaerőpiacra való visszatérést.,Economic policy,agree,MI HAZÁNK
+21,"Egyes alapvető élelmiszerek (pl. csirke far-hát, tej) árstopja helyes lépés az infláció elleni küzdelemben.",Economic policy,disagree,MI HAZÁNK
+22,A lakásbérleti piac állami szabályozására nincs szükség.,social policy,agree,MI HAZÁNK
+23,A jelenleg három hónapig járó álláskeresési járadék meghosszabbítása szükséges.,social policy,agree,MI HAZÁNK
+24,"A családi adókedvezmény jobb megoldás a családok támogatására, mint a családi pótlék növelése.",Family policy,agree,MI HAZÁNK
+25,"Helyes, hogy a szülők és az óvodapedagógusok helyett a hatodik életévét betöltő gyerek iskolakezdési érettségéről az Oktatási Hivatal dönt.",Family policy,disagree,MI HAZÁNK
+26,Legyen az egészségügyi magánszolgáltatás TB-támogatott alapon is hozzáférhető.,Healthcare,agree,MI HAZÁNK
+27,"Gyermeküket, idős hozzátartozóikat, házastársaikat otthongondozók gondozási díját a mindenkori minimálbérhez kell igazítani.",Healthcare,agree,MI HAZÁNK
+28,Legyen az orvosi kannabisz használata legalizálva Magyarországon.,Healthcare,agree,MI HAZÁNK
+29,Önálló Egészségügyi Minisztériumot kell létrehozni.,Healthcare,agree,MI HAZÁNK
+30,A magyar köztársasági elnököt/elnöknőt közvetlenül lehessen megválasztani.,Democracy,agree,MI HAZÁNK
+31,"A választási rendszer átfogó reformjára (körzethatárok újrarajzolása, győztes kompenzáció eltörlése, levélszavazás kibővítése) szükség van.",Democracy,agree,MI HAZÁNK
+32,Az előválasztásnak jogszabályi kereteket kell biztosítani.,Democracy,disagree,MI HAZÁNK
+33,A választásokon 16 éves kortól lehessen szavazni.,Democracy,disagree,MI HAZÁNK
+34,Az internet legyen mindenki számára ingyenesen elérhető.,Digitalization,agree,MI HAZÁNK
+35,Minden az állami közoktatásban résztvevő diáknak (18 éves korig) az állam ingyenes biztosítson laptopot vagy tabletet.,Digitalization,agree,MI HAZÁNK
+36,A környezetszennyező cégeket magasabb adóval kell terhelni.,Environmental policy,agree,MI HAZÁNK
+37,"Nagyobb városokban szükséges az autós forgalom korlátozása különböző intézkedésekkel (P+R parkolók, bicikliutak építése, tömegközlekedés fejlesztése).",Environmental policy,agree,MI HAZÁNK
+38,A városi zöld területek (pl. a budapesti Liget Projekt) átalakításánál széleskörű társadalmi párbeszédre van szükség.,Environmental policy,agree,MI HAZÁNK
+39,Szükség van önálló környezetvédelmi minisztériumra.,Environmental policy,agree,MI HAZÁNK
+40,Be kell vezetni az állati jogok biztosa intézményét.,Environmental policy,agree,MI HAZÁNK
+1,Az EU jogállamisági mechanizmusa Magyarország szuverenitását veszélyezteti.,EU/Foreign Policy,disagree,MKKP
+2,A magyar külpolitikát kizárólag a magyar gazdasági érdekek vezéreljék.,EU/Foreign Policy,disagree,MKKP
+3,"Magyarország népszavazással döntsön arról, hogy továbbra is az EU része maradjon.",Identity policy,disagree,MKKP
+4,"A nemi identitás környezeti ráhatással (pl. médiatartalmak, érzékenyítő foglalkozások) befolyásolható.",Identity policy,disagree,MKKP
+5,A külföldi szervezetek által támogatott NGO-k munkájának erősebb állami szabályozására van szükség.,Domestic policy,disagree,MKKP
+6,Magyarország csatlakozzon az Európai Ügyészséghez.,Domestic policy,agree,MKKP
+7,A lehallgató szoftverek (pl. Pegasus) szigorúbb szabályozására (pl. bírói engedélyhez kötés) van szükség.,Domestic policy,agree,MKKP
+8,A hatékonyabb bűnüldözés érdekében szükséges a bűnözők származásának nyilvánosságra hozatala.,Domestic policy,disagree,MKKP
+9,A tankötelezettségi korhatár legyen újra 18 év.,Education policy,agree,MKKP
+10,"Az oktatásra fordított kiadásokat legalább az OECD 5,2 százalékos (GDP) átlagértékére kell növelni.",Education policy,agree,MKKP
+11,A pedagógusi béreket meg kell duplázni.,Education policy,agree,MKKP
+12,Az egyetemi modellváltással (vagyonkezelői alapítványi formába történő átszervezés) csökkent a politikai befolyás.,Education policy,disagree,MKKP
+13,Kizárólag férfi és nő köthessen házasságot.,Gender equality,disagree,MKKP
+14,"A pártok törekedjenek arra, hogy listaállításnál a férfiak és nők aránya közelítsen egymáshoz.",Gender equality,agree,MKKP
+15,"Az állam célzott intézkedésekkel támogassa, hogy az apák és anyák egyenlő mértékben vehessék ki részüket a gyereknevelésben.",Gender equality,agree,MKKP
+16,"A magyar kormány ratifikálja az Isztambuli Egyezményt, amely a nők elleni és a családon belüli erőszak ellen lép fel.",Gender equality,agree,MKKP
+17,A rezsicsökkentés egyik hatékony módja a kedvező gázszállítási szerződések kötése Oroszországgal.,Economic policy,agree,MKKP
+18,"Szükség van átfogó közbeszerzési reformra (pl. nagyértékű, központosított közbeszerzések megnyitása kisebb cégek előtt is).",Economic policy,agree,MKKP
+19,A tehetősebbek nagyobb mértékben járuljanak hozzá a közterhek viseléséhez (egysávos adó eltörlése).,Economic policy,agree,MKKP
+20,A közmunka segíti a munkaerőpiacra való visszatérést.,Economic policy,agree,MKKP
+21,"Egyes alapvető élelmiszerek (pl. csirke far-hát, tej) árstopja helyes lépés az infláció elleni küzdelemben.",Economic policy,disagree,MKKP
+22,A lakásbérleti piac állami szabályozására nincs szükség.,social policy,agree,MKKP
+23,A jelenleg három hónapig járó álláskeresési járadék meghosszabbítása szükséges.,social policy,agree,MKKP
+24,"A családi adókedvezmény jobb megoldás a családok támogatására, mint a családi pótlék növelése.",Family policy,disagree,MKKP
+25,"Helyes, hogy a szülők és az óvodapedagógusok helyett a hatodik életévét betöltő gyerek iskolakezdési érettségéről az Oktatási Hivatal dönt.",Family policy,disagree,MKKP
+26,Legyen az egészségügyi magánszolgáltatás TB-támogatott alapon is hozzáférhető.,Healthcare,disagree,MKKP
+27,"Gyermeküket, idős hozzátartozóikat, házastársaikat otthongondozók gondozási díját a mindenkori minimálbérhez kell igazítani.",Healthcare,agree,MKKP
+28,Legyen az orvosi kannabisz használata legalizálva Magyarországon.,Healthcare,agree,MKKP
+29,Önálló Egészségügyi Minisztériumot kell létrehozni.,Healthcare,agree,MKKP
+30,A magyar köztársasági elnököt/elnöknőt közvetlenül lehessen megválasztani.,Democracy,agree,MKKP
+31,"A választási rendszer átfogó reformjára (körzethatárok újrarajzolása, győztes kompenzáció eltörlése, levélszavazás kibővítése) szükség van.",Democracy,agree,MKKP
+32,Az előválasztásnak jogszabályi kereteket kell biztosítani.,Democracy,disagree,MKKP
+33,A választásokon 16 éves kortól lehessen szavazni.,Democracy,agree,MKKP
+34,Az internet legyen mindenki számára ingyenesen elérhető.,Digitalization,disagree,MKKP
+35,Minden az állami közoktatásban résztvevő diáknak (18 éves korig) az állam ingyenes biztosítson laptopot vagy tabletet.,Digitalization,agree,MKKP
+36,A környezetszennyező cégeket magasabb adóval kell terhelni.,Environmental policy,agree,MKKP
+37,"Nagyobb városokban szükséges az autós forgalom korlátozása különböző intézkedésekkel (P+R parkolók, bicikliutak építése, tömegközlekedés fejlesztése).",Environmental policy,agree,MKKP
+38,A városi zöld területek (pl. a budapesti Liget Projekt) átalakításánál széleskörű társadalmi párbeszédre van szükség.,Environmental policy,agree,MKKP
+39,Szükség van önálló környezetvédelmi minisztériumra.,Environmental policy,agree,MKKP
+40,Be kell vezetni az állati jogok biztosa intézményét.,Environmental policy,agree,MKKP
+1,Az EU jogállamisági mechanizmusa Magyarország szuverenitását veszélyezteti.,EU/Foreign Policy,agree,LA75
+2,A magyar külpolitikát kizárólag a magyar gazdasági érdekek vezéreljék.,EU/Foreign Policy,disagree,LA75
+3,"Magyarország népszavazással döntsön arról, hogy továbbra is az EU része maradjon.",Identity policy,disagree,LA75
+4,"A nemi identitás környezeti ráhatással (pl. médiatartalmak, érzékenyítő foglalkozások) befolyásolható.",Identity policy,disagree,LA75
+5,A külföldi szervezetek által támogatott NGO-k munkájának erősebb állami szabályozására van szükség.,Domestic policy,disagree,LA75
+6,Magyarország csatlakozzon az Európai Ügyészséghez.,Domestic policy,agree,LA75
+7,A lehallgató szoftverek (pl. Pegasus) szigorúbb szabályozására (pl. bírói engedélyhez kötés) van szükség.,Domestic policy,agree,LA75
+8,A hatékonyabb bűnüldözés érdekében szükséges a bűnözők származásának nyilvánosságra hozatala.,Domestic policy,disagree,LA75
+9,A tankötelezettségi korhatár legyen újra 18 év.,Education policy,disagree,LA75
+10,"Az oktatásra fordított kiadásokat legalább az OECD 5,2 százalékos (GDP) átlagértékére kell növelni.",Education policy,disagree,LA75
+11,A pedagógusi béreket meg kell duplázni.,Education policy,disagree,LA75
+12,Az egyetemi modellváltással (vagyonkezelői alapítványi formába történő átszervezés) csökkent a politikai befolyás.,Education policy,disagree,LA75
+13,Kizárólag férfi és nő köthessen házasságot.,Gender equality,disagree,LA75
+14,"A pártok törekedjenek arra, hogy listaállításnál a férfiak és nők aránya közelítsen egymáshoz.",Gender equality,disagree,LA75
+15,"Az állam célzott intézkedésekkel támogassa, hogy az apák és anyák egyenlő mértékben vehessék ki részüket a gyereknevelésben.",Gender equality,agree,LA75
+16,"A magyar kormány ratifikálja az Isztambuli Egyezményt, amely a nők elleni és a családon belüli erőszak ellen lép fel.",Gender equality,disagree,LA75
+17,A rezsicsökkentés egyik hatékony módja a kedvező gázszállítási szerződések kötése Oroszországgal.,Economic policy,agree,LA75
+18,"Szükség van átfogó közbeszerzési reformra (pl. nagyértékű, központosított közbeszerzések megnyitása kisebb cégek előtt is).",Economic policy,agree,LA75
+19,A tehetősebbek nagyobb mértékben járuljanak hozzá a közterhek viseléséhez (egysávos adó eltörlése).,Economic policy,disagree,LA75
+20,A közmunka segíti a munkaerőpiacra való visszatérést.,Economic policy,disagree,LA75
+21,"Egyes alapvető élelmiszerek (pl. csirke far-hát, tej) árstopja helyes lépés az infláció elleni küzdelemben.",Economic policy,disagree,LA75
+22,A lakásbérleti piac állami szabályozására nincs szükség.,social policy,agree,LA75
+23,A jelenleg három hónapig járó álláskeresési járadék meghosszabbítása szükséges.,social policy,disagree,LA75
+24,"A családi adókedvezmény jobb megoldás a családok támogatására, mint a családi pótlék növelése.",Family policy,disagree,LA75
+25,"Helyes, hogy a szülők és az óvodapedagógusok helyett a hatodik életévét betöltő gyerek iskolakezdési érettségéről az Oktatási Hivatal dönt.",Family policy,disagree,LA75
+26,Legyen az egészségügyi magánszolgáltatás TB-támogatott alapon is hozzáférhető.,Healthcare,disagree,LA75
+27,"Gyermeküket, idős hozzátartozóikat, házastársaikat otthongondozók gondozási díját a mindenkori minimálbérhez kell igazítani.",Healthcare,disagree,LA75
+28,Legyen az orvosi kannabisz használata legalizálva Magyarországon.,Healthcare,agree,LA75
+29,Önálló Egészségügyi Minisztériumot kell létrehozni.,Healthcare,disagree,LA75
+30,A magyar köztársasági elnököt/elnöknőt közvetlenül lehessen megválasztani.,Democracy,disagree,LA75
+31,"A választási rendszer átfogó reformjára (körzethatárok újrarajzolása, győztes kompenzáció eltörlése, levélszavazás kibővítése) szükség van.",Democracy,agree,LA75
+32,Az előválasztásnak jogszabályi kereteket kell biztosítani.,Democracy,disagree,LA75
+33,A választásokon 16 éves kortól lehessen szavazni.,Democracy,disagree,LA75
+34,Az internet legyen mindenki számára ingyenesen elérhető.,Digitalization,disagree,LA75
+35,Minden az állami közoktatásban résztvevő diáknak (18 éves korig) az állam ingyenes biztosítson laptopot vagy tabletet.,Digitalization,disagree,LA75
+36,A környezetszennyező cégeket magasabb adóval kell terhelni.,Environmental policy,disagree,LA75
+37,"Nagyobb városokban szükséges az autós forgalom korlátozása különböző intézkedésekkel (P+R parkolók, bicikliutak építése, tömegközlekedés fejlesztése).",Environmental policy,disagree,LA75
+38,A városi zöld területek (pl. a budapesti Liget Projekt) átalakításánál széleskörű társadalmi párbeszédre van szükség.,Environmental policy,agree,LA75
+39,Szükség van önálló környezetvédelmi minisztériumra.,Environmental policy,disagree,LA75
+40,Be kell vezetni az állati jogok biztosa intézményét.,Environmental policy,agree,LA75
+1,Az EU jogállamisági mechanizmusa Magyarország szuverenitását veszélyezteti.,EU/Foreign Policy,agree,FIDESZ-KDNP
+2,A magyar külpolitikát kizárólag a magyar gazdasági érdekek vezéreljék.,EU/Foreign Policy,agree,FIDESZ-KDNP
+3,"Magyarország népszavazással döntsön arról, hogy továbbra is az EU része maradjon.",Identity policy,disagree,FIDESZ-KDNP
+4,"A nemi identitás környezeti ráhatással (pl. médiatartalmak, érzékenyítő foglalkozások) befolyásolható.",Identity policy,agree,FIDESZ-KDNP
+5,A külföldi szervezetek által támogatott NGO-k munkájának erősebb állami szabályozására van szükség.,Domestic policy,agree,FIDESZ-KDNP
+6,Magyarország csatlakozzon az Európai Ügyészséghez.,Domestic policy,disagree,FIDESZ-KDNP
+7,A lehallgató szoftverek (pl. Pegasus) szigorúbb szabályozására (pl. bírói engedélyhez kötés) van szükség.,Domestic policy,disagree,FIDESZ-KDNP
+8,A hatékonyabb bűnüldözés érdekében szükséges a bűnözők származásának nyilvánosságra hozatala.,Domestic policy,disagree,FIDESZ-KDNP
+9,A tankötelezettségi korhatár legyen újra 18 év.,Education policy,disagree,FIDESZ-KDNP
+10,"Az oktatásra fordított kiadásokat legalább az OECD 5,2 százalékos (GDP) átlagértékére kell növelni.",Education policy,disagree,FIDESZ-KDNP
+11,A pedagógusi béreket meg kell duplázni.,Education policy,disagree,FIDESZ-KDNP
+12,Az egyetemi modellváltással (vagyonkezelői alapítványi formába történő átszervezés) csökkent a politikai befolyás.,Education policy,agree,FIDESZ-KDNP
+13,Kizárólag férfi és nő köthessen házasságot.,Gender equality,agree,FIDESZ-KDNP
+14,"A pártok törekedjenek arra, hogy listaállításnál a férfiak és nők aránya közelítsen egymáshoz.",Gender equality,disagree,FIDESZ-KDNP
+15,"Az állam célzott intézkedésekkel támogassa, hogy az apák és anyák egyenlő mértékben vehessék ki részüket a gyereknevelésben.",Gender equality,agree,FIDESZ-KDNP
+16,"A magyar kormány ratifikálja az Isztambuli Egyezményt, amely a nők elleni és a családon belüli erőszak ellen lép fel.",Gender equality,disagree,FIDESZ-KDNP
+17,A rezsicsökkentés egyik hatékony módja a kedvező gázszállítási szerződések kötése Oroszországgal.,Economic policy,agree,FIDESZ-KDNP
+18,"Szükség van átfogó közbeszerzési reformra (pl. nagyértékű, központosított közbeszerzések megnyitása kisebb cégek előtt is).",Economic policy,disagree,FIDESZ-KDNP
+19,A tehetősebbek nagyobb mértékben járuljanak hozzá a közterhek viseléséhez (egysávos adó eltörlése).,Economic policy,disagree,FIDESZ-KDNP
+20,A közmunka segíti a munkaerőpiacra való visszatérést.,Economic policy,agree,FIDESZ-KDNP
+21,"Egyes alapvető élelmiszerek (pl. csirke far-hát, tej) árstopja helyes lépés az infláció elleni küzdelemben.",Economic policy,agree,FIDESZ-KDNP
+22,A lakásbérleti piac állami szabályozására nincs szükség.,social policy,agree,FIDESZ-KDNP
+23,A jelenleg három hónapig járó álláskeresési járadék meghosszabbítása szükséges.,social policy,disagree,FIDESZ-KDNP
+24,"A családi adókedvezmény jobb megoldás a családok támogatására, mint a családi pótlék növelése.",Family policy,agree,FIDESZ-KDNP
+25,"Helyes, hogy a szülők és az óvodapedagógusok helyett a hatodik életévét betöltő gyerek iskolakezdési érettségéről az Oktatási Hivatal dönt.",Family policy,agree,FIDESZ-KDNP
+26,Legyen az egészségügyi magánszolgáltatás TB-támogatott alapon is hozzáférhető.,Healthcare,disagree,FIDESZ-KDNP
+27,"Gyermeküket, idős hozzátartozóikat, házastársaikat otthongondozók gondozási díját a mindenkori minimálbérhez kell igazítani.",Healthcare,disagree,FIDESZ-KDNP
+28,Legyen az orvosi kannabisz használata legalizálva Magyarországon.,Healthcare,disagree,FIDESZ-KDNP
+29,Önálló Egészségügyi Minisztériumot kell létrehozni.,Healthcare,disagree,FIDESZ-KDNP
+30,A magyar köztársasági elnököt/elnöknőt közvetlenül lehessen megválasztani.,Democracy,disagree,FIDESZ-KDNP
+31,"A választási rendszer átfogó reformjára (körzethatárok újrarajzolása, győztes kompenzáció eltörlése, levélszavazás kibővítése) szükség van.",Democracy,disagree,FIDESZ-KDNP
+32,Az előválasztásnak jogszabályi kereteket kell biztosítani.,Democracy,disagree,FIDESZ-KDNP
+33,A választásokon 16 éves kortól lehessen szavazni.,Democracy,disagree,FIDESZ-KDNP
+34,Az internet legyen mindenki számára ingyenesen elérhető.,Digitalization,disagree,FIDESZ-KDNP
+35,Minden az állami közoktatásban résztvevő diáknak (18 éves korig) az állam ingyenes biztosítson laptopot vagy tabletet.,Digitalization,agree,FIDESZ-KDNP
+36,A környezetszennyező cégeket magasabb adóval kell terhelni.,Environmental policy,agree,FIDESZ-KDNP
+37,"Nagyobb városokban szükséges az autós forgalom korlátozása különböző intézkedésekkel (P+R parkolók, bicikliutak építése, tömegközlekedés fejlesztése).",Environmental policy,disagree,FIDESZ-KDNP
+38,A városi zöld területek (pl. a budapesti Liget Projekt) átalakításánál széleskörű társadalmi párbeszédre van szükség.,Environmental policy,disagree,FIDESZ-KDNP
+39,Szükség van önálló környezetvédelmi minisztériumra.,Environmental policy,disagree,FIDESZ-KDNP
+40,Be kell vezetni az állati jogok biztosa intézményét.,Environmental policy,disagree,FIDESZ-KDNP
