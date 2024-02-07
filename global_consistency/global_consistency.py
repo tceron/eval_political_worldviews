@@ -121,7 +121,10 @@ def plot_proximity_to_parties(df, file_name, title):
     models =  sorter_models
 
     # If only one test is present, axes is not a list, so we convert it into a list for consistency.
-    fig, axes = plt.subplots(nrows=1, ncols=len(models), figsize=(5 * len(models), 6))
+    fig, axes = plt.subplots(nrows=2, ncols=int(len(models)/2), figsize=(14 , 8))
+    # Flatten axes array for easy iteration (if len(tests) is 6)
+    axes = axes.flatten()
+
     if len(models) == 1:
         axes = [axes]
 
@@ -134,11 +137,8 @@ def plot_proximity_to_parties(df, file_name, title):
         for i, row in model_df.iterrows():
             ax.errorbar(row['mean'], row['party'], xerr=row['std'], fmt='o', color=country_color[row["country"]], ecolor='gray',
                     elinewidth=2, capsize=3, label=row["country"])
-        #
-        # if enu != 0:
-        #     ax.set_yticklabels([])
 
-        ax.set_title(f'{model} - {title}')
+        ax.set_title(f'{model} {title}')
         ax.set_xlim(0, 70)
         # ax.set_xlabel('Mean % of matches across templates')
         # ax.set_ylabel('Model')
@@ -149,9 +149,9 @@ def plot_proximity_to_parties(df, file_name, title):
         ax2.set_ylim(ax.get_ylim())
         ax2.set_yticks(range(0, len(model_df), 1), [round(i, 1) for i in model_df["mean_stats"].tolist()])
 
-    handles, labels = ax.get_legend_handles_labels()
-    by_label = dict(zip(labels, handles))
-    ax.legend(by_label.values(), by_label.keys(), loc="lower right")
+        handles, labels = ax.get_legend_handles_labels()
+        by_label = dict(zip(labels, handles))
+        ax.legend(by_label.values(), by_label.keys(), loc="lower right")
 
     fig.text(0.5, 0.01, 'Mean % of matches per party across templates', ha='center', va='center',
              fontsize=10)
@@ -159,9 +159,10 @@ def plot_proximity_to_parties(df, file_name, title):
     # Adjust layout
     plt.tight_layout()
     # Save figure
-    plt.savefig(f'data/responses/{file_name}.jpeg', dpi=600)
+    plt.savefig(f'data/responses/{file_name}.jpeg', dpi=300)
     plt.show()
     plt.close()
+
 
 def run_plot_agnostic_specific():
     df = pd.DataFrame()
@@ -281,6 +282,71 @@ def num_parties_leaning():
             results[position]+=1
     return results
 
+
+def validity_leaning():
+    data = pd.read_csv('./data/responses/leaning_across_templates.csv')
+    results = []
+    for model, group_model in data.groupby("model"):
+        for (temp, rile), group_rile in group_model.groupby(["template_id", "rile"]):
+            validity = round(group_rile.answered_stats_model.sum() / group_rile.total_stats.sum() * 100)
+            leaning = round(group_rile.n_matches.sum() / group_model.answered_stats_party_and_model.sum() * 100)
+            # print(f'\t{camp.title()}: {validity=}, {leaning=}')
+            results.append((model, temp, rile, validity, leaning))
+    df = pd.DataFrame(results, columns=["model", "template_id", "rile", "validity", "leaning"])
+    return df
+
+
+# def similarity_answers_models_and_parties(country):
+#     """ Non-consistent statements become neutral. """
+#     df_final = pd.DataFrame()
+#     for country in list(parties_ches.keys()):
+#         stats2answers = get_answers_stats_vaa(country)
+#         party2answers = get_answers_parties_vaa(country)
+#         files = glob.glob("./data/responses/dataframes_withpasses/*.csv")
+#         results = []
+#         for f in files:
+#             model_name = models_renamed[f.split("/")[-1].split("_")[0]]
+#             template_id = f.split("/")[-1].split("_")[1]
+#             df = pd.read_csv(f)
+#             tmp = df[df["country_code"] == country]
+#             tmp["unique_id"] = tmp.unique_id.apply(lambda x: convert_unique_id(x))
+#             tmp["answer"]=tmp.apply(lambda x: -1 if x["hard_pass"] == False else int(x["string_answers"][10]), axis=1) # -1 if it has not passed all models.
+#
+#             tmp2 = tmp[tmp["hard_pass"] == True]
+#
+#             model_answers = dict(zip(tmp2["unique_id"].tolist(), tmp2.answer.tolist()))
+#
+#             for id in model_answers.keys():
+#                 for p in stats2answers[id].keys():
+#                     num_answer_party = [k for k,v in party2answers[p].items() if v != -1]
+#                     common_ids = list(set(num_answer_party).intersection(model_answers.keys()))
+#                     if model_answers[id] == stats2answers[id][p]:
+#                         results.append((model_name, country, template_id, p, 1, len(model_answers.keys()),  len(tmp["unique_id"].unique()), len(num_answer_party), len(common_ids)))
+#                     else:
+#                         results.append((model_name, country, template_id, p, 0, len(model_answers.keys()), len(tmp["unique_id"].unique()), len(num_answer_party), len(common_ids)))
+#         df = pd.DataFrame(results, columns=["model", "country", "template_id", "party", "match", "answered_stats_model", "total_stats", "answered_stats_party", "answered_stats_party_and_model"])
+#         df = add_scale(df)
+#         df["n_matches"] = df.groupby(["model", "template_id", "rile", "country", "party"])['match'].transform('sum')
+#         df = df.drop_duplicates(subset=["model", "template_id", "rile", "country", "party"])
+#         df_final = pd.concat([df_final, df], ignore_index=True)
+#     df_final = df_final.drop(columns=["match"])
+#     df_final.to_csv("./data/responses/leaning_across_templates.csv", index=False)
+#     return df_final
+
+
+def agreement_normalized():
+    df = pd.read_csv('./data/responses/leaning_across_templates.csv')
+    results = []
+
+    count_per_category = df.drop_duplicates(subset="party").groupby('rile').size().reset_index(name='n_party')
+    dic_counts = dict(zip(count_per_category.rile.tolist(), count_per_category.n_party.tolist()))
+
+    df["matches_rile"] = df.groupby(["model", "template_id", "rile"])["n_matches"].transform("sum")
+    df = df.drop_duplicates(subset=["model", "template_id", "rile"])
+    df["norm_matches_rile"] = df.apply(lambda x: round(x["matches_rile"] / dic_counts[x["rile"]] * 100), axis=1)
+
+    return df
+
 def similarity_answers_models_and_parties(country):
     """ Non-consistent statements become neutral. """
     stats2answers = get_answers_stats_vaa(country)
@@ -312,63 +378,93 @@ def similarity_answers_models_and_parties(country):
     # n_parties = num_parties_leaning()
     df["n_matches"] = df.groupby(["model", "template_id", "rile", "country", "party"])['match'].transform('sum')
     df = df.drop_duplicates(subset=["model", "template_id", "rile", "country", "party"])
-    # df["norm_matches"] = df.apply(lambda x: 100*(x.n_matches/x.answered_stats_party), axis=1)
+    df["relative_matches_model"] = df.apply(lambda x: 100*(x.n_matches/x.answered_stats_model), axis=1)
+    df["relative_matches_stats"] = df.apply(lambda x: 100 * (x.n_matches / x.total_stats), axis=1)
 
     return df
 
-def binned_answers2ches_plots_together():
+def save_df():
     df = pd.DataFrame()
     for c in list(parties_ches.keys()):
         tmp = similarity_answers_models_and_parties(c)
         df = pd.concat([df, tmp], ignore_index=True)
     df = df.drop(columns=["match"])
-    print(df)
     df.to_csv(f"./data/responses/scaling_across_templates_relative.csv", index=False)
+
+save_df()
+
+def binned_answers2ches_plots_together():
+
+    df = pd.read_csv('./data/responses/scaling_across_templates_relative.csv')
     df = df.set_index("model")
     df = df.loc[sorter_models]
     df = df.reset_index()
 
     # If only one test is present, axes is not a list, so we convert it into a list for consistency.
-    fig, ax = plt.subplots(figsize=(4, 5))
+    fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(8, 4))
 
     offset = 0.2
-    for model in sorter_models:
-        tmp_df = df[df['model'] == model]
-        for case in ['center', 'right', 'left']:
-            group = tmp_df[tmp_df['rile'] == case]
 
-            mean_value = group['norm_matches'].mean()
-            std_value = group['norm_matches'].std()
-            model_index = sorter_models.index(model)
+    for i, ax in zip(["relative_matches_stats", "relative_matches_model"], axes):
+        models_num_stats = []
+        for model in sorter_models:
+            tmp_df = df[df['model'] == model]
+            tmp_df["mean_models_answers"] = tmp_df.relative_matches_model.mean()
 
-            if case == 'center':
-                position = model_index
-            elif case == 'right':
-                position = model_index - offset
-            else:  # 'Specific'
-                position = model_index + offset
+            tmp_df["mean_stats_model"] = tmp_df.groupby(["template_id"])["answered_stats_model"].transform("mean")
+            models_num_stats.append(tmp_df["mean_stats_model"].unique().sum())
 
-            ax.errorbar(mean_value,  position, xerr=std_value, fmt='o',
-                        color=rile_color[case], ecolor='lightgray', elinewidth=2, capsize=3, label=case)
+            for case in ['center', 'right', 'left']:
+                means = []
+                for temp in tmp_df.template_id.unique():
+                    means.append(tmp_df[(tmp_df['rile'] == case)&(tmp_df.template_id == temp)][i].mean())
 
-    # ax.set_title(f'{test} Consistency')
-    ax.set_yticks(np.arange(len(sorter_models)) - offset / 2)  # Adjust the ticks to be in between the two cases
-    ax.set_yticklabels(sorter_models)
-    ax.set_xlim(0, 55)
-    ax.invert_yaxis()  ## O Invert y-axis to match the provided plot
-    ax.set_title(f'Consistency in political leaning')
+                mean_value = np.mean(means)
+                std_value = np.std(means)
+                model_index = sorter_models.index(model)
 
-    handles, labels = ax.get_legend_handles_labels()
-    by_label = dict(zip(labels, handles))
-    ax.legend(by_label.values(), by_label.keys(), loc="upper right")
+                if case == 'center':
+                    position = model_index
+                elif case == 'right':
+                    position = model_index - offset
+                else:  # 'Specific'
+                    position = model_index + offset
 
-    ax.set_xlabel('Norm. number of matches across templates')
+                ax.errorbar(mean_value,  position, xerr=std_value, fmt='o',
+                            color=rile_color[case], ecolor='lightgray', elinewidth=2, capsize=3, label=case)
+
+        if i == "relative_matches_model":
+            ax.set_xlim(0, 100)
+            ax.invert_yaxis()  ## O Invert y-axis to match the provided plot
+            ax.set_title(f'Political leaning')
+            ax.set_yticks([])
+            # handles, labels = ax.get_legend_handles_labels()
+            # by_label = dict(zip(labels, handles))
+            # ax.legend(by_label.values(), by_label.keys(), loc="upper right")
+            ax.set_xlabel('% matches norm. by length of consistent stats')
+            ax2 = ax.twinx()
+            ax2.set_ylim(ax.get_ylim())
+            ax2.set_yticks(np.arange(len(sorter_models)) - offset / 2)  # Adjust the ticks to be in between the two cases
+            ax2.set_yticklabels([round(i, 1) for i in models_num_stats])
+            ax2.set_ylabel('Number of consistent statements', rotation=270, labelpad=14)
+        else:
+            ax.set_yticks(np.arange(len(sorter_models)) - offset / 2)  # Adjust the ticks to be in between the two cases
+            ax.set_yticklabels(sorter_models)
+            ax.set_xlim(0, 50)
+            ax.invert_yaxis()  ## O Invert y-axis to match the provided plot
+            ax.set_title(f'Validity of the leaning')
+
+            handles, labels = ax.get_legend_handles_labels()
+            by_label = dict(zip(labels, handles))
+            ax.legend(by_label.values(), by_label.keys(), loc="upper right")
+            ax.set_xlabel('% matches norm. by length of VAA')
+
     # xlabel = plt.xlabel('Mean of normalized number of matches per leaning across contries')
     # fig.text(0.5, 0.01, 'Norm. number of matches across templates', ha='center', va='center', fontsize=10)
 
     plt.tight_layout()
     # Save figure
-    plt.savefig(f'data/responses/scaling_across_templates_norm.jpeg', dpi=600)
+    plt.savefig(f'data/responses/scaling_across_templates_norm.jpeg', dpi=300)
     plt.show()
     plt.close()
 
@@ -377,73 +473,3 @@ def binned_answers2ches_plots_together():
 # run_plot_across_country_personal_impersonal()
 binned_answers2ches_plots_together()
 
-
-
-# def binned_answers2ches_plots_together():
-#     df = pd.DataFrame()
-#     for c in list(parties_ches.keys()):
-#         tmp = similarity_answers_models_and_parties(c)
-#         df = pd.concat([df, tmp], ignore_index=True)
-#
-#     df = df.set_index("model")
-#     df = df.loc[sorter_models]
-#     df = df.reset_index()
-#
-#     models =  sorter_models
-#
-#     # template_type, template_type_gpt = retrieve_template_type()
-#     # templates = df.template_id.unique()
-#     # # sort templates according to their type
-#     # templates = sorted(templates, key=lambda x: template_type[x])
-#
-#     # If only one test is present, axes is not a list, so we convert it into a list for consistency.
-#     fig, axes = plt.subplots(nrows=1, ncols=len(models), figsize=(4 * len(models), 5))
-#     if len(models) == 1:
-#         axes = [axes]
-#
-#     offset = 0.2
-#     for enu, (ax, model) in enumerate(zip(axes, models)):
-#         # Filter the dataframe for the current test
-#         temp_df = df[df['model'] == model]
-#
-#         for (template, case), group in temp_df.groupby(['template_id', 'rile']):
-#
-#             mean_value = group['norm_matches'].mean()
-#             std_value = group['norm_matches'].std()
-#             model_index = sorter_models.index(model)
-#
-#             if case == 'center':
-#                 position = model_index
-#             elif case == 'right':
-#                 position = model_index - offset
-#             else:  # 'Specific'
-#                 position = model_index + offset
-#
-#             ax.errorbar(mean_value,  position, xerr=std_value, fmt='o',
-#                         color=rile_color[case], ecolor='lightgray', elinewidth=2, capsize=3, label=case)
-#
-#         # ax.set_title(f'{test} Consistency')
-#         ax.set_yticks(np.arange(len(sorter_models)) - offset / 2)  # Adjust the ticks to be in between the two cases
-#         if enu == 0:
-#             ax.set_yticklabels(sorter_models)
-#         else:
-#             ax.set_yticklabels([])
-#         ax.set_xlim(0, 55)
-#         ax.invert_yaxis()  ## O Invert y-axis to match the provided plot
-#         ax.set_title(f'Template {enu+1} - {template_type[template]}')
-#
-#     handles, labels = ax.get_legend_handles_labels()
-#     by_label = dict(zip(labels, handles))
-#     ax.legend(by_label.values(), by_label.keys(), loc="upper right")
-#
-#     # ax.set_xlabel('Mean of normalized number of matches across templates')
-#     # xlabel = plt.xlabel('Mean of normalized number of matches per leaning across contries')
-#     fig.text(0.5, 0.01, 'Mean of normalized number of matches per leaning across contries', ha='center', va='center', fontsize=10)
-#
-#     plt.tight_layout()
-#     # Save figure
-#     plt.savefig(f'data/responses/scaling_across_templates_norm.jpeg', dpi=600)
-#     plt.show()
-#     plt.close()
-#
-# binned_answers2ches_plots_together()
