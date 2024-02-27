@@ -1,6 +1,6 @@
 # Robust evaluation of political worldview in LLMs
 
-# Coding information for the IDs 
+## Coding information for the IDs 
 
 String with the following format:
 
@@ -23,4 +23,4 @@ e.g. _ch_15_0000001_fr_
 
 ## Chapel Hill Survey
 
-The information about the Chapel Hill Expert Survey can be found [here](https://www.chesdata.eu/ches-europe).
+The data from the Chapel Hill Expert Survey can be found [here](https://www.chesdata.eu/ches-europe).
