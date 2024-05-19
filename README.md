@@ -24,3 +24,32 @@ e.g. _ch_15_0000001_fr_
 ## Chapel Hill Survey
 
 The data from the Chapel Hill Expert Survey can be found [here](https://www.chesdata.eu/ches-europe).
+
+
+# Code 
+
+## Run models to generate answers given prompts
+
+The code to run the models can be found in the `run_model` folder. The code is based on the Hugging Face transformers library.
+
+## Evaluation
+
+There are two steps of the evaluation, the reliability tests and the analysis of the political worldviews. 
+
+### Reliability tests
+
+The reliability tests are based on the inter-rater agreement and the test-retest reliability. The code can be found in the `reliability` folder.
+
+### Analysis of the political worldviews
+
+The code to analyze the political worldviews can be found in the `political_biases` folder. 
+
+In order to run the analysis concerning the political orientation of the models, you need to run the following script:
+
+    python3 leaning_analysis.py --passed_test hard_pass -- condition 0
+
+You can choose the type of test you want to analyse. 
+
+
+
+
