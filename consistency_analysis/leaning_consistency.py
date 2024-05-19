@@ -126,7 +126,6 @@ def binned_answers2ches_plots_together():
         tmp_df["mean_per_country"]=tmp_df.groupby(["template_id"])["relative_reliable_statements"].transform("mean")  # first it groups by the template_id because the by_country is the same
         models_num_stats.append(round(tmp_df["mean_per_country"].unique().mean(),1))  # this is the mean of reliable statements from the mean across templates per country
 
-        diff_mean = {}
         for case in ['center', 'right', 'left']:
 
             means_same_template = []
@@ -144,17 +143,8 @@ def binned_answers2ches_plots_together():
             else:
                 position = model_index + offset
 
-            print(model, case, round(mean_value, 2))
-            diff_mean[case] = round(mean_value, 2)
-
             ax.errorbar(mean_value,  position, xerr=std_value, fmt='o',
                         color=rile_color[case], ecolor='lightgray', elinewidth=2, capsize=3, label=case)
-
-        print(model)
-        print("-----left-right", diff_mean["left"]-diff_mean["right"])
-        print("-----left-center", diff_mean["left"]-diff_mean["center"])
-        print("-----center-right",diff_mean["right"]-diff_mean["center"])
-
 
     ax.set_yticks(np.arange(len(sorting)) - offset / 2)  # Adjust the ticks to be in between the two cases
     ax.set_yticklabels(sorting)
