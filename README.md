@@ -17,7 +17,7 @@ e.g. _ch_15_0000001_fr_
 * **Question** 1 if question else 0 (not included in our dataset anymore)
 * **Negation** 1 if negation else 0
 * **Translation** 1 if translation else 0
-* **Language**: e.g. en or es
+* **Language**: e.g. en, es, de...
 * **CountryCode**: e.g. ch, de, fr, it
 
 
