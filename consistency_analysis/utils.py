@@ -19,12 +19,18 @@ country_color = {"de": "red", "nl": "blue", "it": "green", "hu": "orange", "pl":
 
 country2ches = {"de":3, "hu":23, "pl":26, "ch":36, "it":8, "nl":10, "es":5} #[ 3  5  8 10 23 26]
 
-models_renamed = {"mistral-7b-chat": "MISTRAL-7b", 'flan-tf-xxl-chat': "FLAN-T5-XXL-11b", 'llama-2-7b-chat': "LLAMA2-7b",
-                  "random": "RANDOM CHOICE", "llama-2-13b-chat": "LLAMA2-13b", "llama-2-70b-chat": "LLAMA2-70b", "chat-gpt-3.5-turbo-0613": "GPT3.5-turbo-20b"}
+models_renamed = {"mistral-7b-chat": "MISTRAL-7b", 'flan-tf-xxl-chat': "FLAN-T5-XXL-11b", 'flan-t5-xxl-chat': "FLAN-T5-XXL-11b", 'llama-2-7b-chat': "LLAMA2-7b",
+                  "random": "RANDOM", "random-chat": "RANDOM", "llama-2-13b-chat": "LLAMA2-13b", "llama-2-70b-chat": "LLAMA2-70b", "chat-gpt-3.5-turbo-0613": "GPT3.5-turbo-20b",
+                  "chat-gpt-3.5-turbo-0613-chat": "GPT3.5-turbo-20b", 'alwaysagree':'alwaysAgree', 'alwaysdisagree':'alwaysDISagree'}
 
-sorter_models = ['MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b']
+sorter_models ={'disagree':['alwaysDISagree', 'RANDOM','MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
+                'agree':['alwaysAgree', 'RANDOM', 'MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
+                'only_models':['MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
+                'all':['alwaysDISagree', 'alwaysAgree', 'RANDOM','MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
+                'simulations':['alwaysDISagree', 'alwaysAgree', 'RANDOM']}
 
-color_models = {'MISTRAL-7b':"red", 'LLAMA2-7b':"green", 'FLAN-T5-XXL-11b':"purple", 'LLAMA2-13b':"orange", "GPT3.5-turbo-20b":"brown", 'LLAMA2-70b':"blue"}
+color_models = {'alwaysDISagree':'violet', 'alwaysAgree':'olive', 'RANDOM':'navy', 'MISTRAL-7b':"red", 'LLAMA2-7b':"green", 'FLAN-T5-XXL-11b':"purple",
+                'LLAMA2-13b':"orange", "GPT3.5-turbo-20b":"brown", 'LLAMA2-70b':"blue"}
 
 positions = {'economy_labor':0.1, 'democracy_media_digit':0.2, 'society_ethics':0.3,
  'security_armed_forces':0.4, 'welfare_state_family':-0.1, 'foreign_relations':-0.2,
@@ -62,6 +68,23 @@ id2idx = {'ch16': 0, 'hu2': 1, 'ch14': 2, 'pl17': 3, 'ch50': 4, 'pl16': 5, 'es19
 
 policy2idx = {'expanded_environ_protection': 5, 'expanded_social_welfare_state': 6, 'law_and_order': 3, 'liberal_economic_policy': 1, 'liberal_society': 7, 'open_foreign_policy': 0,
  'restrictive_financial_policy': 2, 'restrictive_migration_policy': 4}
+
+rile_color = {"left": "lightcoral", "center": "mediumseagreen", "right": "slateblue"}
+
+colors_agree_disagree = {"agree": "skyblue", "disagree": "lightcoral"}
+
+test_names = {"hard_pass": "Statements that successfully passed ALL tests", "test_sign": "Statements that passed the SIGNIFICANCE test",
+            "test_label_inversion":"Statements have have passed the LABEL INVERSION test", "test_opposite":"Statements that passed the SEMANTIC OPPOSITE test",
+              "test_negation":"Statements that passed the NEGATION test","test_semantic_equivalence":"Statements that passed the PARAPHRASE test",
+              "test_sign-test_negation":"Statements that passed the SIGNIFICANCE & NEGATION testS",
+              "test_sign-test_semantic_equivalence":"Statements that passed the SIGNIFICANCE & PARAPHRASE tests",
+              "test_sign-test_opposite":"Statements that passed the SIGNIFICANCE & SEMANTIC OPPOSITE tests",
+              "test_sign-test_label_inversion":"Statements that passed the SIGNIFICANCE & LABEL INVERSION tests",
+              "test_label_inversion-test_semantic_equivalence":"Statements that passed the LABEL INVERSION & PARAPHRASE tests",
+              "test_label_inversion-test_negation":"Statements that passed the LABEL INVERSION & NEGATION tests",
+              "test_label_inversion-test_opposite":"Statements that passed the LABEL INVERSION & SEMANTIC OPPOSITE tests",
+              "test_sign-test_label_inversion-test_semantic_equivalence":"Statements that passed the SIGNIFICANCE & LABEL INVERSION & PARAPHRASE tests",
+              False:"All statements - No reliability test considered"}
 
 def compute_mantel(cat_arr, text_arr):
     """ Compute Mantel test between two distance matrices.
