@@ -44,6 +44,7 @@ The reliability tests are based on the inter-rater agreement and the test-retest
 
 [...]
 
+initial commit
 ### Analysis of the political worldviews
 
 The code to analyze the political worldviews can be found in the `political_biases` folder. 
