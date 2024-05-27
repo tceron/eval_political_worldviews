@@ -36,7 +36,7 @@ The data can be found in the `data` folder. The data is split into the following
     * `en_clf_templates_final.csv`: templates for all models except ChatGPT. 
     * `en_gpt_templates_final.csv`: templates for ChatGPT.
 * `vaa`: contains invidual files per country. Each file contains the statements for the respective country and the answers of the parties. 
-    * `all_unique.csv`: contains all statements from all countries with their respective translations, paraphrases, negations and opposites. All statements are in English, in the original language, and French, Italian, German and Spanish (automatelly translated with DeepL).  
+    * `all_unique.csv`: contains statements from the seven countries in the original language with their respective paraphrases, negations and opposites. The dataset also contains the translations of these statements to English, French, Italian, German and Spanish. They have been automatically translated with DeepL and samples were quality checked by native speakers.   
 
 # Code 
 
