@@ -1,240 +1,301 @@
-ID,statement,policy_domain,open_foreign_policy,liberal_economic_policy,restrictive_financial_policy,law_and_order,restrictive_migration_policy,expanded_environ_protection,expanded_social_welfare_state,liberal_society
-ch_16_1000001_de,Switzerland should terminate the Bilateral Agreements with the EU and seek a free trade agreement without the free movement of persons.,foreign_relations,-1.0,-1.0,0.0,0.0,1.0,0.0,0.0,0.0
-hu_2_1000001_hu,Hungarian foreign policy should be guided solely by Hungarian economic interests.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_14_1000001_de,Switzerland should strive for a comprehensive free trade agreement (including agriculture) with the USA.,foreign_relations,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-pl_17_1000001_pl,Poland should have grain imports from Ukraine blocked.,foreign_relations,-1.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_50_1000001_de,Switzerland should ban the registration of new passenger cars with internal combustion engines starting in 2035.,energy_transportation,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-pl_16_1000001_pl,Poland should move away from coal mining no later than 2040.,energy_transportation,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-es_19_1000001_es,The right to self-determination must be recognized by the Constitution.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-pl_13_1000001_pl,The independence of the judiciary from parliament and the government should be strengthened.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_10_1000001_de,"The Federal Council should be allowed to authorize other states to re-export Swiss weapons in cases of a war of aggression in violation of international law (e.g., the attack on Ukraine).",security_armed_forces,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_26_1000001_it,Sanctions against Russia should be tougher.,foreign_relations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_27_1000001_it,Italy should stop sending arms and war material to the Ukrainian government.,foreign_relations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_3_1000001_hu,Hungary should decide by referendum whether to remain part of the EU.,foreign_relations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_2_1000001_it,Italy should get out of the Eurozone.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_4_1000001_nl,The Netherlands should exit the European Union (EU).,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_37_1000011_de,Air traffic is to be taxed more heavily.,finance_taxes,0.0,-1.0,1.0,0.0,0.0,1.0,0.0,0.0
-nl_20_1000001_nl,The Netherlands should introduce an additional flight tax for short-distance flights.,finance_taxes,0.0,-1.0,1.0,0.0,0.0,1.0,0.0,0.0
-nl_5_1000011_nl,"Instead of the tax on car ownership, there should be a tax per kilometer driven for motorists.",finance_taxes,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-es_16_1000001_es,The best way to solve the conflict in Catalonia is for its citizens to be able to vote on their future in a referendum.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-nl_17_1000011_nl,Citizens should have the opportunity to block laws passed by parliament through a referendum.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pl_11_1000011_pl,The result of any nationwide referendum should be binding regardless of turnout.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_10_1000001_hu,Education spending should be increased to at least the OECD average of 5.2 per cent (GDP).,education,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-hu_11_1000011_hu,Teachers' salaries should be doubled.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_18_1000011_nl,Primary school teachers should earn as much as secondary school teachers.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_4_1000011_es,The efficiency of public services improves when they are privatized.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,-1.0,0.0
-hu_18_1000001_hu,Comprehensive public procurement reform is needed (e.g. opening up large-scale centralised public procurement to smaller firms).,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_20_1000011_hu,Public employment helps people re-enter the labour market.,economy_labor,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_49_1000011_de,Busy sections of highways should be widened.,energy_transportation,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0
-de_1_1000011_de,A general speed limit is to apply on all highways.,energy_transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-hu_37_1000011_hu,"In larger cities, car traffic should be limited through various measures (P+R parking, construction of cycle paths, improvement of public transport).",energy_transportation,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-ch_6_1000011_de,The voting age should be lowered to 16.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_3_1000001_de,Young people over the age of 16 are to be allowed to vote in Bundestag elections.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_33_1000011_hu,Voting age for elections should be 16.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_24_1000001_de,Compulsory vaccination of children should be introduced based on the Swiss vaccination plan.,health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-de_6_1000011_de,Covid-19 vaccines are to continue to be protected by patents.,health,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_1_1000001_nl,Organizers of events should be able to request a vaccination certificate upon entry.,health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-ch_18_1000011_de,There should be an increase in the retirement age.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0
-de_8_1000011_de,All employed persons are to be required to be insured in the statutory pension scheme.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-pl_8_1000011_pl,"Early retirement should be introduced for those who have worked a certain number of years, regardless of their age.",welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_56_1000011_de,"The protection regulations for large predators (lynx, wolf, bear) should be relaxed.",environ_protection,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0
-ch_58_1000011_de,There should be stricter animal welfare regulations for livestock (e.g. permanent access to outdoor areas).,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-hu_40_1000001_hu,An animal rights commissioner should be introduced.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-hu_31_1000001_hu,"Comprehensive reform of the electoral system (redrawing of district boundaries, abolition of winner-take-all compensation, extension of postal voting) is needed.",democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_32_1000001_hu,A legal framework for primary elections should be provided.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_30_1000001_it,Direct election of the President of the Republic should be introduced.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_46_1000011_de,Private households should be free to choose their electricity supplier (complete liberalization of the electricity market).,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_55_1000011_de,Increasing electricity tariffs when consumption is higher (progressive electricity tariffs) should be introduced.,energy_transportation,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-hu_17_1000001_hu,One effective way to reduce rents is to conclude favourable gas supply contracts with Russia.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_44_1000001_de,"A minimum wage of CHF 4,000 for all full-time employees should be introduced.",economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_36_1000001_de,The statutory minimum wage is to be increased to at least 12 euros by 2022 at the latest.,economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,0.0
-it_17_1000011_it,An hourly minimum wage should be introduced.,economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,0.0
-es_14_1000001_es,To better defend Spain's interests in Europe we must recover more sovereignty.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_16_1000001_hu,"The Hungarian government should ratify the Istanbul Convention, which combats violence against women and domestic violence.",welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-hu_1_1000001_hu,The EU's rule of law mechanism threatens Hungary's sovereignty.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_6_1000001_hu,Hungary should join the European Public Prosecutor's Office.,foreign_relations,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-ch_13_1000001_de,There should be closer relations with the European Union (EU).,foreign_relations,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_1_1000001_it,European integration is all in all a positive process.,foreign_relations,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_3_1000001_it,The European Union should have a common foreign policy.,foreign_relations,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_5_1000001_it,European economic integration has gone too far: member states should regain more autonomy.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_21_1000001_it,The construction of Major Works is a priority for Italy.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_22_1000001_it,Italy should build more incinerators/thermal power plants.,energy_transportation,0.0,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-it_24_1000001_it,Regasifiers are necessary infrastructure for Italy.,energy_transportation,0.0,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-nl_13_1000001_nl,The Netherlands should build a new nuclear power plant.,energy_transportation,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_15_1000011_de,Companies should be obliged to ensure that their subsidiaries and suppliers operating abroad comply with social and environmental standards.,foreign_relations,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-ch_1_1000011_de,"There should be government measures to make the use of electronic devices more sustainable (e.g., right to repair, extension of warranty period, minimum guaranteed period for software updates).",environ_protection,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-hu_5_1000011_hu,Stronger state regulation of the work of NGOs supported by foreign organisations is needed.,democracy_media_digit,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_12_1000011_it,A law is needed to prevent companies from relocating their production abroad.,economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_38_1000011_de,Companies are to decide for themselves whether to allow their employees to work from home.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_5_1000011_es,It should be easier for companies to fire workers.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,-1.0,0.0
-es_9_1000011_es,The working day should be reduced without reducing workers' wages.,economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,0.0
-it_14_1000011_it,Businesses should be able to fire employees more easily.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,-1.0,0.0
-nl_25_1000001_nl,An increase in minimum wages should no longer automatically result in an increase in welfare benefits.,economy_labor,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0
-ch_36_1000011_de,Cannabis use should be legalized.,society_ethics,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,1.0
-de_24_1000011_de,The controlled sale of cannabis is to be generally permitted.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-hu_28_1000001_hu,The use of medical cannabis should be legalised in Hungary.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-it_11_1000011_it,Recreational use of marijuana/cannabis should be allowed.,society_ethics,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,1.0
-nl_22_1000001_nl,Both the purchase and sale of soft drugs by coffee shops should be legalized.,society_ethics,0.0,1.0,0.0,-1.0,0.0,0.0,0.0,1.0
-de_17_1000001_de,The solidarity surcharge is to be abolished completely.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-de_35_1000001_de,Asylum is to continue to be granted only to politically persecuted persons.,migration_integration,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-de_9_1000001_de,The right of recognized refugees to join their families is to be abolished.,migration_integration,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-es_21_1000001_es,It is necessary to repeal the Law of Democratic Memory passed during this legislature.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_18_1000001_it,The citizenship allowance is a measure that should be cancelled.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0
-ch_28_1000001_de,The federal government should be given the authority to determine the hospital offering (national hospital planning with regard to locations and range of services).,health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_43_1000001_de,The differences between cantons with high and low financial capacity should be further reduced through fiscal equalization.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-ch_54_1000001_de,The state should guarantee a comprehensive public service offering also in rural regions.,energy_transportation,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-de_27_1000001_de,Inpatient treatment in hospitals is to continue to be charged on the basis of a flat rate per case.,health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_29_1000001_hu,An independent Ministry of Health should be established.,health,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-pl_3_1000001_pl,The state should finance private visits to specialists if the waiting time at a public facility exceeds three months.,health,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_11_1000011_de,Automatic facial recognition should be banned in public spaces.,security_armed_forces,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,1.0
-de_18_1000011_de,Female civil servants are to be allowed to wear headscarves while on duty.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-de_29_1000011_de,Facial recognition software should be allowed to be used for video surveillance in public places.,security_armed_forces,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.0
-de_32_1000011_de,Islamic associations are to be able to be recognized by the state as religious communities.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-nl_10_1000001_nl,The government should abolish the ban on face-covering clothing.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-nl_30_1000011_nl,People should always have the choice of whether to wear a face mask.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-ch_38_1000011_de,"A third official gender should be introduced alongside ""female"" and ""male"". ",society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-de_15_1000001_de,Federal authorities are to take linguistic account of different gender identities in their publications.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-de_26_1000001_de,The state lists of the parties for the elections to the German Bundestag are to have to be filled alternately by women and men.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-es_3_1000001_es,Current gender policies are biased against men.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-hu_14_1000001_hu,Parties should strive for a closer ratio of men to women when drawing up lists.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-hu_4_1000011_hu,"Gender identity can be influenced by environmental influences (e.g. media content, sensitising activities).",society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_52_1000011_de,It's fair that environmental and landscape protection rules are being relaxed to allow for the development of renewable energy.,energy_transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_53_1000011_de,The construction of new nuclear power plants should be allowed again.,energy_transportation,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_4_1000001_de,Subsidies for wind energy are to be ended.,energy_transportation,0.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
-de_7_1000001_de,The phase-out of coal-fired power generation planned for 2038 is to be brought forward.,energy_transportation,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-it_20_1000011_it,The use of nuclear power plants for the purpose of producing energy should be promoted.,energy_transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_23_1000011_it,Drilling is necessary to find more energy resources.,energy_transportation,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0
-ch_42_1000001_de,There should be the introduction of a national inheritance tax on all inheritances over one million Swiss francs.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-de_10_1000001_de,A national tax is to be levied on revenue generated in Germany from digital services.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-de_28_1000001_de,A tax is to be levied again on high assets.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-es_8_1000011_es,A permanent tax on large fortunes and assets is necessary.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-it_13_1000011_it,A heritage tax one's wealth should be introduced.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-it_16_1000001_it,"The introduction of a single income tax rate (""flat tax"") would benefit the Italian economy.",finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
-nl_12_1000001_nl,The government should reduce the VAT on cultural activities to 5 percent.,finance_taxes,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0.0
-ch_19_1000001_de,The federal government should allocate more funding for health insurance premium subsidies.,welfare_state_family,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0.0
-ch_26_1000001_de,"Insured persons should contribute more to health care costs (e.g., increase the minimum deductible).",health,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0
-es_23_1000011_es,Immigrants should pay for their own health services.,migration_integration,0.0,0.0,0.0,0.0,1.0,0.0,-1.0,0.0
-es_7_1000011_es,"The government must increase spending on public health care, even if this means increasing taxes.",health,0.0,-1.0,-1.0,0.0,0.0,0.0,1.0,0.0
-it_15_1000011_it,Health care should be managed only by the state and not by private individuals.,health,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_9_1000001_nl,"Instead of the existing health insurance companies, there should be a national healthcare fund for everyone.",health,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,0.0
-pl_10_1000001_pl,All entrepreneurs should pay the same health premium regardless of income.,health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_30_1000011_de,The federal government should raise the requirements for the high school.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_20_1000001_de,The federal government is to be given more responsibilities in school policy.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_25_1000001_hu,"It is right that it is the Education Office, rather than parents and kindergarten teachers, that decides on the school entry maturity of children over the age of six.",education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-hu_9_1000001_hu,The age of compulsory schooling should be raised back to 18.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_23_1000001_nl,The government should make Dutch-language education more frequently mandatory at universities and colleges.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_28_1000001_nl,"A middle school should be established so that students make a choice between vocational education, general secondary education, or pre-university education at a later age.",education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pl_5_1000011_pl,Schools should have more freedom to choose the content covered in the curriculum.,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_37_1000011_de,Doctors should be allowed to administer direct active euthanasia.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-ch_39_1000011_de,Same-sex couples should have the same rights as heterosexual couples in all areas.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-hu_13_1000011_hu,Only men and women should be allowed to marry.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-it_10_1000011_it,Citizens should be guaranteed freedom of choice in end-of-life matters (euthanasia).,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-it_9_1000011_it,"More civil rights should be granted to homosexual, bisexual, transgender (LGBT+) people.",society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-nl_24_1000011_nl,People who consider their lives complete should be able to receive assistance with suicide.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-pl_9_1000001_pl,Abortion laws should be liberalized.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-ch_25_1000011_de,There should be an introduction of a tax on foods containing sugar (sugar tax).,health,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_40_1000001_de,There should be tax cuts at the federal level over the next four years.,finance_taxes,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-es_6_1000011_es,The state should take measures to redistribute wealth from the rich to the poor.,finance_taxes,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_19_1000001_hu,Increase the contribution of the wealthier to the public purse (abolition of the one-band tax).,finance_taxes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_21_1000011_hu,"A price freeze on some basic foodstuffs (e.g. chicken tail, milk) is the right step to fight inflation.",finance_taxes,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_7_1000011_nl,There should be an additional tax on purchasing meat.,finance_taxes,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-pl_2_1000001_pl,Social transfers should be increased to reduce the effects of inflation on citizens.,welfare_state_family,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0.0
-pl_7_1000011_pl,Taxes should be increased for top earners.,finance_taxes,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_27_1000001_de,The Federal Council's ability to restrict private and economic life in the event of a pandemic should be more limited.,health,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-ch_4_1000011_de,"There should be a stronger regulation of the major Internet platforms (i.e., transparency rules on algorithms, increased liability for content, combating disinformation).",democracy_media_digit,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_1_1000011_es,Limiting rights and freedoms is necessary to combat organized crime.,security_armed_forces,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.0
-hu_34_1000011_hu,Internet access should be free for all.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
-hu_7_1000001_hu,Stricter regulation of interception software (e.g. Pegasus) is needed (e.g. subject to judicial authorisation).,democracy_media_digit,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-hu_8_1000011_hu,Disclosure of the origin of criminals is needed for more effective law enforcement.,security_armed_forces,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-it_19_1000001_it,Beach concessions to private individuals should be time-limited.,economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-pl_19_1000011_pl,Public media funding from the state budget should be limited.,democracy_media_digit,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-pl_20_1000011_pl,The powers of the secret services to track the activities of citizens on the Internet should be limited.,security_armed_forces,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,1.0
-ch_22_1000001_de,Paid parental leave should be increased beyond today's 14 weeks of maternity leave and two weeks of paternity leave.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_41_1000011_de,Married couples be taxed separately (individual taxation).,finance_taxes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-de_11_1000011_de,"The traditional family of father, mother and children is to be promoted more strongly than other living arrangements.",society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-de_30_1000001_de,Married couples without children should continue to receive tax breaks.,finance_taxes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_15_1000011_hu,The state should take targeted measures to promote equal participation of fathers and mothers in child-rearing.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-hu_23_1000001_hu,The current three-month unemployment benefit should be extended.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-hu_24_1000001_hu,A family tax credit is a better way to support families than increasing the family allowance.,welfare_state_family,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-nl_15_1000001_nl,"Households with two partners, one of whom works, should receive the same tax benefits as households with two working partners.",welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-nl_3_1000011_nl,Childcare should be free for all parents for at least three days a week.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_2_1000001_de,The Swiss mobile network should be equipped throughout the country with the latest technology (currently 5G standard).,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_8_1000001_de,"The army's target number of soldiers should expand to at least 120,000.",security_armed_forces,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-ch_9_1000001_de,The Swiss Armed Forces should expand their cooperation with NATO.,security_armed_forces,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_2_1000001_de,Germany is to increase its defense spending.,security_armed_forces,0.0,0.0,-1.0,1.0,0.0,0.0,0.0,0.0
-es_15_1000001_es,Spanish government should promote the strengthening of NATO in Europe.,security_armed_forces,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_18_1000001_es,Spain's territorial decentralization must be deepened.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_2_1000001_es,The growth of Islam is a threat to Spain's security.,security_armed_forces,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-it_25_1000001_it,Italy should keep its foreign policy aligned with the choices of the Atlantic Alliance (NATO).,security_armed_forces,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-nl_2_1000001_nl,The Netherlands should spend more money on defense.,security_armed_forces,0.0,0.0,-1.0,1.0,0.0,0.0,0.0,0.0
-pl_14_1000001_pl,The share of defense spending in Poland's GDP should be further increased.,security_armed_forces,0.0,0.0,-1.0,1.0,0.0,0.0,0.0,0.0
-ch_12_1000001_de,Switzerland should terminate the Schengen agreement with the EU and reintroduce more security checks directly on the border.,security_armed_forces,-1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
-ch_32_1000011_de,"The conditions for naturalization should be relaxed (e.g., shorter residence period).",migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
-ch_33_1000001_de,More qualified workers from non-EU/EFTA countries should be allowed to work in Switzerland (increase third-country quota).,migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
-ch_34_1000001_de,There should be efforts to house asylum seekers in centers outside Europe during the asylum procedure.,migration_integration,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-ch_35_1000001_de,Foreign nationals who have lived in Switzerland for at least ten years should be granted the right to vote and stand for election at the municipal level.,migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,1.0
-de_14_1000001_de,"In Germany, it should generally be possible to have a second citizenship in addition to the German one.",migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,1.0
-es_20_1000001_es,The policies of linguistic immersion in the native language of bilingual Autonomous Communities endanger Spanish.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-es_22_1000001_es,Spain should be more tolerant with illegal migration.,migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
-it_7_1000011_it,"Migrant landings must be stopped, even by extreme means.",migration_integration,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
-it_8_1000001_it,"Children, born in Italy to foreign citizens and who have completed schooling should be granted Italian citizenship (ius scholae).",migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
-nl_21_1000001_nl,Asylum seekers with a temporary residence permit should complete integration before getting a rental home.,migration_integration,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-nl_29_1000001_nl,The Netherlands should accept more refugees than it currently does.,migration_integration,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
-pl_12_1000001_pl,Poland should adopt the migrant relocation solutions adopted by the European Union.,migration_integration,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
-ch_23_1000011_de,The federal government should provide more financial support for public housing construction.,welfare_state_family,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0.0
-ch_47_1000011_de,"Housing construction regulations should be relaxed (e.g., noise protection, occupancy rates).",economy_labor,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-ch_51_1000011_de,"To achieve climate targets, incentives and target agreements should be relied on exclusively, rather than bans and restrictions.",energy_transportation,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-ch_57_1000001_de,Direct payments should only be granted to farmers with proof of ecological performance.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-de_21_1000001_de,The federal government is to provide more financial support for projects to combat anti-Semitism.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-de_31_1000011_de,Organic agriculture should be promoted more strongly than conventional agriculture.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-es_12_1000011_es,Climate change is solely attributable to human action.,environ_protection,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_24_1000011_es,Housing prices must be regulated to ensure access for all people.,welfare_state_family,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,0.0
-hu_22_1000011_hu,State regulation of the rental housing market is not necessary.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_38_1000001_hu,The redevelopment of urban green spaces (e.g. the Liget project in Budapest) needs a broad social dialogue.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-hu_39_1000011_hu,An independent ministry for the environment is needed.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-nl_11_1000001_nl,"The national government, rather than provinces and municipalities, should decide where new residential areas are built.",democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_14_1000011_nl,Houses should be built on land currently used for agriculture.,economy_labor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_26_1000011_nl,New residential areas should consist of at least 40 percent green space.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-nl_27_1000011_nl,There should be no new restrictions on the activities of farming businesses.,economy_labor,0.0,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-pl_6_1000011_pl,The state should build low-rent apartments for rent.,welfare_state_family,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0.0
-ch_0_1000011_de,There should be a ban on single-use plastic and non-recyclable plastics.,environ_protection,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-ch_17_1000001_de,Switzerland should return to a strict interpretation of neutrality (renounce economic sanctions to a large extent).,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_20_1000001_de,"For married couples, the pension is currently limited to 150% of the maximum individual AHV pension (capping). This limit should be eliminated.",welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_21_1000001_de,"As part of the reform of the BVG (occupational pension plan), pensions are to be reduced (lowering the minimum conversion rate from 6.8% to 6%).",welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0
-ch_29_1000001_de,"According to the Swiss integrated schooling concept, children with learning difficulties or disabilities should be taught in regular classes.",education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-ch_31_1000011_de,"The state should be more committed to equal educational opportunities (e.g., through subsidized remedial courses for students from low-income families).",education,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-ch_3_1000001_de,The federal government should be given additional powers in the area of digitization of government services in order to be able to impose binding directives and standards on the cantons.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_45_1000011_de,"There should be stricter regulations for the financial sector (e.g., stricter capital requirements for banks, ban on bonuses).",economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_48_1000011_de,There should be stricter controls on equal pay for women and men.,economy_labor,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_59_1000001_de,30% of Switzerland's land area should be dedicated to preserving biodiversity?.,environ_protection,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-ch_5_1000001_de,"There should be a popular initiative aims to reduce television and radio fees (CHF 200 per household, exemption for businesses).",democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ch_7_1000011_de,It should be possible to hold a referendum on federal spending above a certain amount (optional financial referendum).,democracy_media_digit,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-de_12_1000001_de,Donations from companies to political parties should continue to be permitted.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_13_1000001_de,Students should receive BAföG regardless of their parents' income.,welfare_state_family,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-de_16_1000001_de,"The Nord Stream 2 Baltic Sea pipeline, which transports gas from Russia to Germany, is to be allowed to go into operation as planned.",energy_transportation,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_19_1000011_de,The registration of new cars with combustion engines should also be possible in the long term.,energy_transportation,0.0,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-de_22_1000001_de,Chinese companies should not be allowed to receive contracts for the expansion of the communications infrastructure in Germany.,foreign_relations,-1.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_23_1000001_de,The state should continue to collect church tax for religious communities.,finance_taxes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_25_1000001_de,Germany is to leave the European Union.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-de_33_1000001_de,The government-set price for CO2 emissions from heating and driving is to rise more than planned.,environ_protection,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-de_34_1000001_de,The debt brake in the Basic Law is to be retained.,finance_taxes,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-de_5_1000011_de,The ability of landlords to increase housing rents is to be more strictly limited by law.,welfare_state_family,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,0.0
-es_10_1000011_es,Governments should intervene as little as possible in the economy.,economy_labor,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_11_1000011_es,Taxes on fossil fuels must be raised to finance the Green Transition.,environ_protection,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-es_13_1000001_es,The future Spanish government should increase irrigated agricultural areas by means of large water transfers.,economy_labor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-es_17_1000001_es,Negotiating with pro-independence supporters weakens the State.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_12_1000001_hu,Political influence has been reduced by changing the university model (reorganisation into a trust).,education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_30_1000001_hu,The President of the Hungarian Republic should be directly elected.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-hu_36_1000011_hu,Polluting companies should be taxed more heavily.,environ_protection,0.0,-1.0,0.0,0.0,0.0,1.0,0.0,0.0
-it_28_1000011_it,Taxes collected at the regional level should be fully retained in the region itself.,finance_taxes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_29_1000001_it,Separation of careers between judges and prosecutors should be introduced.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-it_4_1000001_it,There should be a common European army.,security_armed_forces,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-it_6_1000011_it,Restrictions on personal freedom and privacy are acceptable to deal with health emergencies such as Covid-19.,health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-nl_16_1000001_nl,The Dutch government should apologize for the historical slave trade.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-nl_19_1000011_nl,There should be fewer options for community service sentences instead of prison sentences.,security_armed_forces,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-nl_6_1000001_nl,"During the upcoming New Year's Eve, it should be allowed to set off decorative fireworks again.",society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-nl_8_1000011_nl,Less funding should go to public broadcasting.,democracy_media_digit,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-pl_15_1000001_pl,The powers of local governments should be increased at the expense of the central government.,democracy_media_digit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pl_18_1000011_pl,Christian values should be the basis of state social policy.,society_ethics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
-pl_1_1000001_pl,The European Union should have less influence on Polish domestic policy.,foreign_relations,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-pl_4_1000011_pl,The state should provide a free nursery place for every child.,welfare_state_family,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0.0
+paraphrase,opposite,negation,original,ID,annotator
+1,0,0,1,pl_19_1000011_pl,1
+1,0,0,1,ch_48_1000011_de,1
+1,0,0,1,de_8_1000011_de,1
+0,1,1,0,ch_47_1000011_de,1
+0,1,0,0,es_10_1000011_es,1
+1,0,0,1,de_18_1000011_de,1
+1,0,0,1,de_29_1000011_de,1
+1,0,0,1,pl_4_1000011_pl,1
+0,1,1,0,hu_13_1000011_hu,1
+1,0,0,1,pl_7_1000011_pl,1
+1,0,0,1,hu_15_1000011_hu,1
+0,0,1,0,it_15_1000011_it,1
+1,1,1,1,ch_4_1000011_de,1
+0,1,1,0,it_14_1000011_it,1
+0,1,0,0,ch_36_1000011_de,1
+1,0,0,1,de_32_1000011_de,1
+0,0,1,0,hu_21_1000011_hu,1
+1,0,0,1,de_19_1000011_de,1
+0,0,0,0,pl_18_1000011_pl,1
+1,0,0,1,pl_6_1000011_pl,1
+0,1,0,0,es_8_1000011_es,1
+1,0,0,1,es_6_1000011_es,1
+0,1,1,0,nl_5_1000011_nl,1
+0,1,1,0,ch_55_1000011_de,1
+1,0,0,1,ch_38_1000011_de,1
+1,1,0,1,ch_0_1000011_de,1
+1,0,0,1,ch_46_1000011_de,1
+1,0,0,1,pl_20_1000011_pl,1
+1,0,0,1,de_38_1000011_de,1
+0,1,1,0,hu_22_1000011_hu,1
+0,0,0,0,de_24_1000011_de,1
+1,1,1,0,nl_18_1000011_nl,1
+1,0,0,1,de_5_1000011_de,1
+1,0,0,1,hu_39_1000011_hu,1
+1,0,0,1,ch_41_1000011_de,1
+1,1,1,0,hu_4_1000011_hu,1
+1,0,0,1,es_24_1000011_es,1
+1,0,0,1,ch_58_1000011_de,1
+0,1,0,0,de_37_1000011_de,1
+1,0,0,1,hu_20_1000011_hu,1
+0,1,1,0,ch_11_1000011_de,1
+0,1,1,0,ch_52_1000011_de,1
+1,0,0,1,ch_53_1000011_de,1
+1,0,0,1,ch_37_1000011_de,1
+0,1,1,0,nl_24_1000011_nl,1
+0,1,0,0,de_31_1000011_de,1
+1,0,0,1,de_6_1000011_de,1
+0,1,1,0,hu_33_1000011_hu,1
+1,0,0,1,ch_15_1000011_de,1
+0,0,1,1,nl_8_1000011_nl,1
+0,0,1,0,de_31_1000011_de,2
+1,0,0,1,pl_20_1000011_pl,2
+0,1,1,0,hu_13_1000011_hu,2
+1,0,0,1,pl_4_1000011_pl,2
+1,0,0,1,ch_48_1000011_de,2
+0,0,1,0,es_6_1000011_es,2
+1,0,0,1,pl_7_1000011_pl,2
+0,1,1,0,ch_36_1000011_de,2
+1,0,0,1,ch_55_1000011_de,2
+0,1,1,0,ch_38_1000011_de,2
+0,1,0,0,ch_46_1000011_de,2
+0,1,1,0,nl_5_1000011_nl,2
+1,0,0,1,de_38_1000011_de,2
+1,0,0,1,de_8_1000011_de,2
+0,0,1,0,it_15_1000011_it,2
+0,1,1,0,hu_22_1000011_hu,2
+1,0,0,1,hu_39_1000011_hu,2
+0,1,0,0,hu_33_1000011_hu,2
+1,0,0,1,de_32_1000011_de,2
+1,0,0,1,de_6_1000011_de,2
+0,1,1,0,de_37_1000011_de,2
+1,0,0,1,de_18_1000011_de,2
+0,1,1,0,pl_18_1000011_pl,2
+1,1,1,0,de_24_1000011_de,2
+0,0,0,0,pl_19_1000011_pl,2
+0,1,1,0,nl_18_1000011_nl,2
+0,1,1,0,ch_52_1000011_de,2
+0,1,1,0,ch_58_1000011_de,2
+1,0,0,1,de_19_1000011_de,2
+1,0,0,1,es_24_1000011_es,2
+0,0,1,0,nl_8_1000011_nl,2
+0,1,1,0,ch_11_1000011_de,2
+1,0,1,0,es_10_1000011_es,2
+1,0,0,1,ch_4_1000011_de,2
+0,1,1,0,ch_37_1000011_de,2
+1,0,0,1,hu_15_1000011_hu,2
+1,0,0,1,nl_24_1000011_nl,2
+1,0,0,1,ch_0_1000011_de,2
+1,0,0,1,pl_6_1000011_pl,2
+1,0,0,0,ch_41_1000011_de,2
+1,0,0,1,hu_21_1000011_hu,2
+1,0,0,0,de_5_1000011_de,2
+1,0,0,1,hu_4_1000011_hu,2
+1,0,0,1,de_29_1000011_de,2
+0,0,1,0,ch_47_1000011_de,2
+1,0,0,1,hu_20_1000011_hu,2
+0,1,1,0,ch_53_1000011_de,2
+0,1,1,0,it_14_1000011_it,2
+1,0,1,0,ch_15_1000011_de,2
+0,0,0,1,es_8_1000011_es,2
+1,0,0,1,pl_19_1000011_pl,3
+1,0,0,1,de_31_1000011_de,3
+1,0,0,1,ch_55_1000011_de,3
+0,1,1,0,nl_5_1000011_nl,3
+1,0,0,1,de_18_1000011_de,3
+1,0,0,1,pl_6_1000011_pl,3
+1,0,0,1,de_5_1000011_de,3
+1,0,0,1,hu_20_1000011_hu,3
+0,0,1,0,es_10_1000011_es,3
+1,1,0,1,de_8_1000011_de,3
+1,0,0,1,ch_52_1000011_de,3
+1,0,0,1,nl_8_1000011_nl,3
+1,0,0,1,ch_37_1000011_de,3
+1,0,0,1,pl_20_1000011_pl,3
+1,0,0,1,ch_48_1000011_de,3
+0,1,1,0,de_38_1000011_de,3
+1,0,0,1,es_6_1000011_es,3
+1,0,1,1,it_15_1000011_it,3
+1,0,0,1,de_37_1000011_de,3
+0,1,0,0,it_14_1000011_it,3
+1,0,0,1,hu_15_1000011_hu,3
+1,0,0,1,ch_4_1000011_de,3
+1,1,1,0,de_19_1000011_de,3
+1,0,0,1,de_32_1000011_de,3
+1,0,0,1,hu_21_1000011_hu,3
+0,1,1,0,pl_18_1000011_pl,3
+1,0,0,1,ch_36_1000011_de,3
+1,0,0,1,hu_33_1000011_hu,3
+0,1,1,0,ch_53_1000011_de,3
+1,0,0,1,ch_41_1000011_de,3
+1,0,0,1,de_24_1000011_de,3
+0,1,1,0,hu_13_1000011_hu,3
+1,0,0,1,ch_11_1000011_de,3
+0,1,1,0,hu_22_1000011_hu,3
+1,0,0,1,es_24_1000011_es,3
+1,0,0,1,ch_38_1000011_de,3
+0,1,1,0,nl_18_1000011_nl,3
+0,1,1,0,de_29_1000011_de,3
+1,0,0,1,hu_4_1000011_hu,3
+1,0,0,1,hu_39_1000011_hu,3
+0,1,1,0,ch_46_1000011_de,3
+1,0,0,1,pl_4_1000011_pl,3
+1,0,0,1,es_8_1000011_es,3
+0,1,1,0,de_6_1000011_de,3
+1,0,0,1,nl_24_1000011_nl,3
+0,0,1,0,ch_47_1000011_de,3
+1,0,0,1,pl_7_1000011_pl,3
+1,0,0,1,ch_15_1000011_de,3
+1,0,0,1,ch_0_1000011_de,3
+1,0,0,1,ch_58_1000011_de,3
+0,1,1,0,nl_24_1000011_nl,4
+1,0,0,1,es_6_1000011_es,4
+1,1,0,1,nl_18_1000011_nl,4
+1,0,0,1,hu_15_1000011_hu,4
+0,1,1,0,ch_37_1000011_de,4
+0,0,1,0,it_15_1000011_it,4
+0,1,1,0,ch_53_1000011_de,4
+1,1,1,0,ch_47_1000011_de,4
+1,0,0,1,pl_7_1000011_pl,4
+1,0,0,1,ch_41_1000011_de,4
+1,0,0,1,es_24_1000011_es,4
+0,1,0,0,nl_5_1000011_nl,4
+1,0,0,1,de_5_1000011_de,4
+1,0,0,1,ch_58_1000011_de,4
+1,0,0,1,pl_20_1000011_pl,4
+1,0,0,1,ch_36_1000011_de,4
+1,0,1,1,hu_4_1000011_hu,4
+1,0,0,1,ch_15_1000011_de,4
+1,0,0,1,hu_39_1000011_hu,4
+1,0,0,1,de_8_1000011_de,4
+0,1,1,0,de_29_1000011_de,4
+1,0,1,1,ch_46_1000011_de,4
+1,0,0,1,de_32_1000011_de,4
+1,1,0,1,de_38_1000011_de,4
+0,1,1,0,nl_8_1000011_nl,4
+1,0,0,1,de_18_1000011_de,4
+1,0,0,1,ch_11_1000011_de,4
+0,1,1,0,pl_18_1000011_pl,4
+1,0,0,1,ch_48_1000011_de,4
+1,0,0,1,pl_4_1000011_pl,4
+1,0,0,1,es_10_1000011_es,4
+0,0,0,1,de_37_1000011_de,4
+1,0,0,1,ch_0_1000011_de,4
+0,1,1,0,pl_19_1000011_pl,4
+1,0,1,1,ch_52_1000011_de,4
+0,1,1,0,hu_33_1000011_hu,4
+1,0,0,1,es_8_1000011_es,4
+0,1,1,0,de_6_1000011_de,4
+1,0,0,1,ch_55_1000011_de,4
+1,0,0,1,de_24_1000011_de,4
+1,1,0,1,ch_4_1000011_de,4
+0,1,1,0,hu_13_1000011_hu,4
+0,1,1,0,hu_22_1000011_hu,4
+1,0,0,1,pl_6_1000011_pl,4
+1,0,0,1,de_31_1000011_de,4
+0,0,1,0,it_14_1000011_it,4
+0,1,1,0,hu_21_1000011_hu,4
+0,0,1,0,ch_38_1000011_de,4
+1,0,0,1,hu_20_1000011_hu,4
+0,1,1,0,de_19_1000011_de,4
+1,0,0,1,pl_6_1000011_pl,5
+1,0,0,1,hu_33_1000011_hu,5
+1,0,0,1,de_5_1000011_de,5
+1,0,0,1,ch_38_1000011_de,5
+0,1,1,0,it_14_1000011_it,5
+1,0,0,1,ch_48_1000011_de,5
+0,1,1,0,de_8_1000011_de,5
+0,1,1,0,hu_13_1000011_hu,5
+0,1,1,0,pl_19_1000011_pl,5
+0,0,1,0,es_10_1000011_es,5
+1,0,0,1,de_24_1000011_de,5
+0,1,1,0,de_29_1000011_de,5
+1,0,0,1,de_32_1000011_de,5
+1,0,0,1,ch_15_1000011_de,5
+1,0,0,1,es_24_1000011_es,5
+0,1,1,0,nl_8_1000011_nl,5
+1,0,0,1,pl_20_1000011_pl,5
+0,1,0,0,ch_52_1000011_de,5
+1,0,0,1,ch_36_1000011_de,5
+0,1,1,0,ch_53_1000011_de,5
+1,0,0,1,ch_55_1000011_de,5
+1,0,0,1,de_37_1000011_de,5
+1,0,0,1,ch_58_1000011_de,5
+1,0,0,1,ch_37_1000011_de,5
+1,0,0,1,nl_24_1000011_nl,5
+0,1,1,0,ch_47_1000011_de,5
+1,0,0,1,de_31_1000011_de,5
+0,1,1,0,ch_46_1000011_de,5
+0,0,1,0,it_15_1000011_it,5
+1,0,0,1,hu_39_1000011_hu,5
+1,0,0,1,ch_11_1000011_de,5
+1,0,0,1,pl_4_1000011_pl,5
+1,0,0,1,ch_41_1000011_de,5
+1,0,0,1,hu_21_1000011_hu,5
+0,1,1,0,nl_5_1000011_nl,5
+0,1,1,0,hu_4_1000011_hu,5
+1,0,0,1,ch_0_1000011_de,5
+1,0,0,1,pl_7_1000011_pl,5
+1,0,0,1,ch_4_1000011_de,5
+0,1,1,0,de_19_1000011_de,5
+0,1,1,0,de_38_1000011_de,5
+1,0,0,1,es_6_1000011_es,5
+1,0,0,1,nl_18_1000011_nl,5
+1,0,0,1,hu_15_1000011_hu,5
+0,1,1,0,hu_22_1000011_hu,5
+1,0,0,1,es_8_1000011_es,5
+1,0,0,1,hu_20_1000011_hu,5
+0,1,1,0,de_6_1000011_de,5
+1,0,0,1,de_18_1000011_de,5
+0,1,1,0,pl_18_1000011_pl,5
+0,1,1,0,de_8_1000011_de,6
+1,0,1,1,ch_38_1000011_de,6
+1,0,0,0,ch_0_1000011_de,6
+1,0,0,1,de_31_1000011_de,6
+1,0,0,1,pl_4_1000011_pl,6
+1,0,0,1,ch_52_1000011_de,6
+1,0,0,1,de_6_1000011_de,6
+1,0,0,1,pl_6_1000011_pl,6
+0,1,1,0,de_29_1000011_de,6
+0,1,1,0,de_19_1000011_de,6
+0,0,1,0,it_15_1000011_it,6
+0,1,1,0,pl_18_1000011_pl,6
+1,0,1,1,ch_58_1000011_de,6
+1,0,0,1,de_37_1000011_de,6
+1,0,1,1,pl_19_1000011_pl,6
+0,1,1,0,hu_22_1000011_hu,6
+1,0,0,1,de_32_1000011_de,6
+1,0,0,1,de_24_1000011_de,6
+1,0,1,1,de_5_1000011_de,6
+0,1,1,0,nl_5_1000011_nl,6
+0,1,0,0,es_10_1000011_es,6
+1,0,0,1,hu_20_1000011_hu,6
+1,0,0,1,pl_7_1000011_pl,6
+1,0,0,1,nl_8_1000011_nl,6
+1,0,0,1,ch_4_1000011_de,6
+1,0,0,1,pl_20_1000011_pl,6
+1,0,0,1,hu_13_1000011_hu,6
+0,1,1,0,it_14_1000011_it,6
+1,0,0,1,ch_46_1000011_de,6
+1,0,0,1,hu_39_1000011_hu,6
+0,0,1,0,hu_21_1000011_hu,6
+1,0,0,1,es_24_1000011_es,6
+1,0,0,1,ch_55_1000011_de,6
+1,0,0,1,es_8_1000011_es,6
+1,0,0,1,ch_48_1000011_de,6
+1,1,0,1,hu_15_1000011_hu,6
+0,0,0,1,ch_37_1000011_de,6
+0,1,1,0,nl_24_1000011_nl,6
+1,0,0,1,ch_36_1000011_de,6
+1,0,0,1,ch_11_1000011_de,6
+1,0,0,1,hu_4_1000011_hu,6
+0,1,1,0,nl_18_1000011_nl,6
+1,0,0,1,es_6_1000011_es,6
+1,0,0,1,de_18_1000011_de,6
+1,0,0,1,ch_15_1000011_de,6
+1,0,0,1,de_38_1000011_de,6
+1,0,0,1,ch_53_1000011_de,6
+0,1,1,0,ch_41_1000011_de,6
+0,1,1,0,hu_33_1000011_hu,6
+0,1,1,0,ch_47_1000011_de,6
