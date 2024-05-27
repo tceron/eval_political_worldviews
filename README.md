@@ -25,12 +25,24 @@ e.g. _ch_15_0000001_fr_
 
 The data from the Chapel Hill Expert Survey can be found [here](https://www.chesdata.eu/ches-europe).
 
+# Data
+
+The data can be found in the `data` folder. The data is split into the following subfolders:
+
+* `human_annotations`: contains the data from the human annotations. The data is split into the following files:
+    * `annotations_spiderweb_gold.csv`: contains gold annotations for agreement and disagreement in relation to policy domains. It's part of the domain specific analysis from section 7 of the paper.
+    * `survey_vaas.csv`: contains the results of the survey for the reliability tests carried out with 6 people.
+* `prompt_instructions`: contains the prompt templates/instructions used in the experiments. The data is split into the following files:
+    * `en_clf_templates_final.csv`: templates for all models except ChatGPT. 
+    * `en_gpt_templates_final.csv`: templates for ChatGPT.
+* `vaa`: contains invidual files per country. Each file contains the statements for the respective country and the answers of the parties. 
+    * `all_unique.csv`: contains all statements from all countries with their respective translations, paraphrases, negations and opposites. All statements are in English, in the original language, and French, Italian, German and Spanish (automatelly translated with DeepL).  
 
 # Code 
 
 ## Run models to generate answers given prompts
 
-The code to run the models can be found in the `run_model` folder. The code is based on the Hugging Face transformers library.
+The code to run the models can be found in the `prompting` folder. The code is based on the Hugging Face transformers library.
 
 [...]
 
