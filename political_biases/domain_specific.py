@@ -8,7 +8,7 @@ import argparse
 
 
 def position_per_statement():
-    df = pd.read_csv("./data/annotations/spiderweb/annotations_vaas_gold.csv").fillna(0)
+    df = pd.read_csv("../data/human_annotations/annotations_spiderweb_gold.csv").fillna(0)
     df["ID"] = df.ID.apply(lambda x: "".join(x.split("_")[:2]))
 
     m = np.zeros([len(df.columns[3:]), len(df.ID.tolist())])
@@ -23,7 +23,7 @@ def position_per_statement():
     return m
 
 def id_to_policy_stance():
-    df = pd.read_csv("./data/annotations/spiderweb/annotations_vaas_gold.csv").fillna(0)
+    df = pd.read_csv("../data/human_annotations/annotations_spiderweb_gold.csv").fillna(0)
     df["ID"] = df.ID.apply(lambda x: "".join(x.split("_")[:2]))
     id2policies = defaultdict(list)
 
@@ -40,7 +40,7 @@ def id_to_policy_stance():
 def positioning_per_model():
 
     m_annotation = position_per_statement()
-    files = glob.glob("./data/responses/updated/*.csv")
+    files = glob.glob("../data/responses/dataframes_withpasses/*.csv")
 
     id2policies, policies = id_to_policy_stance()
 
@@ -69,7 +69,7 @@ def positioning_per_model():
     return matrices
 
 def stance_per_statement():
-    df = pd.read_csv("./data/annotations/spiderweb/annotations_vaas_gold.csv").fillna(0)
+    df = pd.read_csv("../data/human_annotations/annotations_spiderweb_gold.csv").fillna(0)
     df["ID"] = df.ID.apply(lambda x: "".join(x.split("_")[:2]))
     id2policystance = {k: {} for k in df.ID.tolist()}
 
@@ -84,7 +84,7 @@ def stance_per_statement():
     return id2policystance, df.columns[3:]
 
 def dic_category_annotated():
-    df = pd.read_csv("./data/annotations/spiderweb/annotations_vaas_gold.csv").fillna(0)
+    df = pd.read_csv("../data/human_annotations/annotations_spiderweb_gold.csv").fillna(0)
     results = {}
     for col in df.columns[3:]:
         dic = dict(zip(df.ID.tolist(), df[col].tolist()))
@@ -102,7 +102,7 @@ def matrix_statement_categories_per_model():
     """ This function creates a matrix with the number of times a model has answered a statement in a certain category."""
 
     id2policies, policies = id_to_policy_stance()
-    files = glob.glob("./data/responses/updated/*.csv")
+    files = glob.glob("../data/responses/dataframes_withpasses/*.csv")
 
     matrices = {model: {} for model in sorting}
 
@@ -130,8 +130,6 @@ def matrix_statement_categories_per_model():
     return matrices
 
 def plot_positioning_per_model():
-    # df = positioning_per_model()
-    # df = pd.read_csv("./data/responses/policy_stances.csv")
 
     m_model= positioning_per_model()
     m_count = matrix_statement_categories_per_model()  # total number of answers per policy domain per model
@@ -228,18 +226,18 @@ def plot_positioning_per_model():
 
     plt.tight_layout()
     if args.simulation:
-        plt.savefig(f'data/responses/plots_paperv2/policy_stance_simulation.jpeg', dpi=300)
+        plt.savefig(f'../data/responses/plots/policy_stance_simulation.jpeg', dpi=300)
         fig.suptitle('Simulations', fontsize=14, y=1)  # Increase y value here
     else:
         fig.suptitle(test_names[test], fontsize=14, y=1)  # And here
-        plt.savefig(f'data/responses/plots_paperv2/policy_stance_{test}.jpeg', dpi=300)
+        plt.savefig(f'../data/responses/plots/policy_stance_{test}.jpeg', dpi=300)
 
     plt.show()
 
 def number_agree_disagree_models():
     """ Create dataframe with number of times models have agreed or disagreed per policy domain."""
 
-    files = glob.glob("./data/responses/updated/*.csv")
+    files = glob.glob("../data/responses/dataframes_withpasses/*.csv")
     results = []
 
     for f in files:
@@ -308,7 +306,8 @@ def plot_number_agree_disagree_models():
 
     plt.tight_layout()
     # Save figure
-    plt.savefig(f'data/responses/plots_paperv2/num_agrees_disagrees.jpeg', dpi=300)
+    pathlib.Path("../data/responses/plots").mkdir(parents=True, exist_ok=True)
+    plt.savefig(f'../data/responses/plots/num_agrees_disagrees.jpeg', dpi=300)
     plt.show()
     plt.close()
 

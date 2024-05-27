@@ -4,11 +4,12 @@ from utils import sorter_models, models_renamed, colors_agree_disagree
 import matplotlib.pyplot as plt
 import numpy as np
 import argparse
+import pathlib
 
 def number_agree_disagree_models():
     """ Create dataframe with number of times models have agreed or disagreed per policy domain."""
 
-    files = glob.glob("./data/responses/updated/*.csv")
+    files = glob.glob("../data/responses/dataframes_withpasses/*.csv")
     results = []
 
     for f in files:
@@ -81,7 +82,8 @@ def plot_number_agree_disagree_models():
 
     plt.tight_layout()
     # Save figure
-    plt.savefig(f'data/responses/plots_paperv2/num_agrees_disagrees_{args.passed_test}.jpeg', dpi=300)
+    pathlib.Path(f'../data/responses/plots/').mkdir(parents=True, exist_ok=True)
+    plt.savefig(f'../data/responses/plots/num_agrees_disagrees_{args.passed_test}.jpeg', dpi=300)
     plt.show()
     plt.close()
 

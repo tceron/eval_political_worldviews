@@ -5,13 +5,14 @@ from utils import convert_answers, parties_ches, convert_unique_id, models_renam
 import matplotlib.pyplot as plt
 import numpy as np
 import argparse
+import pathlib
 
 def get_answers_stats_vaa(country):
     """ Get the answer of parties per VAA per country given in the parameter
     :return: dict with statementID as key and a dictionary with parties as keys and answers as values.
      """
     stats2answers = {}
-    vaa = pd.read_csv(f"./PolBiases/data/vaa/{country}.csv")
+    vaa = pd.read_csv(f"../data/vaa/{country}.csv")
     vaa["position"] = vaa.position.apply(lambda x: convert_answers(x))
     vaa["party"] = vaa.party.apply(lambda x: parties_ches[country][x] if x in parties_ches[country].keys() else False)
     vaa = vaa[vaa.party != False]
@@ -25,7 +26,7 @@ def get_answers_parties_vaa(country):
     :return: dict with party as key and a dictionary with statementID as keys and answers as values.
     """
     party2answers = {}
-    vaa = pd.read_csv(f"./PolBiases/data/vaa/{country}.csv")
+    vaa = pd.read_csv(f"../data/vaa/{country}.csv")
     vaa["position"] = vaa.position.apply(lambda x: convert_answers(x))
     vaa["party"] = vaa.party.apply(lambda x: parties_ches[country][x] if x in parties_ches[country].keys() else False)
     vaa = vaa[vaa.party != False]
@@ -53,7 +54,7 @@ def similarity_answers_models_and_parties(country):
     """
 
     stats2answers = get_answers_stats_vaa(country) # retrieves statements to answers
-    files = glob.glob("./data/responses/updated/*.csv")
+    files = glob.glob("../data/responses/dataframes_withpasses/*.csv")
     results = []
     for f in files:
         model_name = models_renamed[f.split("/")[-1].split("_")[0]]
@@ -100,12 +101,10 @@ def similarity_dataframe_per_party():
         tmp = similarity_answers_models_and_parties(c)
         df = pd.concat([df, tmp], ignore_index=True)
     df = df.drop(columns=["match"])
-    # df.to_csv(f"./data/responses/scaling_across_templates_relative.csv", index=False)
     return df
 
 def binned_answers2ches_plots_together():
 
-    # df = pd.read_csv('./data/responses/scaling_across_templates_relative.csv')
     df = similarity_dataframe_per_party()
     df = df.set_index("model")
     print(sorting)
@@ -174,13 +173,13 @@ def binned_answers2ches_plots_together():
 
     plt.tight_layout()
     # Save figure
-    plt.savefig(f'data/responses/plots_paperv3/scaling_{args.passed_test}_{args.condition}.jpeg', dpi=300)
+    pathlib.Path(f'../data/responses/plots').mkdir(parents=True, exist_ok=True)
+    plt.savefig(f'../data/responses/plots/scaling_{args.passed_test}_{args.condition}.jpeg', dpi=300)
     plt.show()
     plt.close()
 
 def binned_answers2ches_plots_together_more_plots():
 
-    # df = pd.read_csv('./data/responses/scaling_across_templates_relative.csv')
     df = similarity_dataframe_per_party()
     df = df.set_index("model")
     print(sorting)
@@ -247,7 +246,8 @@ def binned_answers2ches_plots_together_more_plots():
 
     plt.tight_layout()
     # Save figure
-    plt.savefig(f'data/responses/plots_paperv3/scaling_{args.passed_test}_6templates_{args.condition}.jpeg', dpi=300)
+    pathlib.Path(f'../data/responses/plots').mkdir(parents=True, exist_ok=True)
+    plt.savefig(f'../data/responses/plots/scaling_{args.passed_test}_6templates_{args.condition}.jpeg', dpi=300)
     plt.show()
     plt.close()
 
