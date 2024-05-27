@@ -42,17 +42,21 @@ There are two steps of the evaluation, the reliability tests and the analysis of
 
 The reliability tests are based on the inter-rater agreement and the test-retest reliability. The code can be found in the `reliability` folder.
 
-The first step is to compute a probability for the leaning of the model for each prompt. To do this you need to have the 
-answers for each prompt mapped to `binary_answer`. The file with the binary answers (e.g. you have mapped "yes" to 1 
-and "no" to 0) also needs to have a unique identifier for the statement variant (`statement_id`), the prompt template
+If you want to use a model that is non-deterministic you should generate several responses for the same prompt. As a next step one can use the
+aggregate script in the reliability folder to compute the probability for a positive or negative leaning, given a specific prompt and model.
+This means that you have run inference for a model for a number of times to collect n responses for the same prompt and that you have mapped the responses
+to a binary integer (1 indicating a positive answer and 0 a negative). 
+
+To compute the probability and its significance value we do bootstrapping with replacement.
+Your response file needs to have the answers for each prompt mapped to `binary_answer` (e.g. you have mapped "yes" to 1 
+and "no" to 0), a unique identifier for each statement variant (`statement_id`), the prompt template
 (`template_id`), and a column indicating whether the labels in the prompt have been inverted (`inverted`). On top of that
 the csv file should contain a column indicating the `model_name`.
 
-For each prompt you are expected to have run inference several times (n = sample_size) and have the answers for each run.
-N should be at least 30 to have a reliable estimate of the leaning. If you want to compute a more robust significance of
+The number of responses for each prompt should be at least 30 to have a reliable estimate of the leaning. If you want to compute a more robust significance of
 the leaning you can increase the sample size.
 
-In order to compute the leaning of the model for each prompt, you need to run the following script:
+In order to compute the probability for a positive and a negative stance of the model for each prompt and its significance value, you can run the following script:
 
     python -m reliability.aggregate --questionnaire_with_model_responses /path/to/answers --sample_size 30 --out_dir /path/to/output_dir
 
@@ -63,9 +67,10 @@ In order to run the evaluation, you need to run the following script:
 
     python -m reliability.evaluation --results_all /path/to/aggregated_results.csv --results_random /path/to/random/random_baseline.csv --results_dir /path/to/results_dir
 
-This script will comute reliability tests for each statement for each model-template combination.
+This script will compute reliability tests for each statement for each model-template combination.
 
 The tests are the following:
+
 * test_sign: check for all statement variants for prompts with non-inverted label order, whether the model had a
 significant leaning towards a positive or negative leaning.
 
