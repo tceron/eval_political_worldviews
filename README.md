@@ -44,7 +44,7 @@ The reliability tests are based on the inter-rater agreement and the test-retest
 
 The first step is to compute a probability for the leaning of the model for each prompt. To do this you need to have the 
 answers for each prompt mapped to `binary_answer`. The file with the binary answers (e.g. you have mapped "yes" to 1 
-and "no" to 0) also needs to have a unique identifier for the statement varient (`statement_id`), the prompt template
+and "no" to 0) also needs to have a unique identifier for the statement variant (`statement_id`), the prompt template
 (`template_id`), and a column indicating whether the labels in the prompt have been inverted (`inverted`). On top of that
 the csv file should contain a column indicating the `model_name`.
 
