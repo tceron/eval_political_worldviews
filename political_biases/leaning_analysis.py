@@ -129,7 +129,7 @@ def binned_answers2ches_plots_together():
 
             means_same_template = []
             for temp in tmp_df.template_id.unique():
-                means_same_template.append(tmp_df[(tmp_df['rile'] == case)&(tmp_df.template_id == temp)]["relative_matches_model"].mean())
+                means_same_template.append(tmp_df[(tmp_df['rile'] == case)&(tmp_df.template_id == temp)]["relative_matches_stats"].mean())
 
             mean_value = np.mean(means_same_template)
             std_value = np.std(means_same_template)
@@ -204,8 +204,8 @@ def binned_answers2ches_plots_together_more_plots():
 
                 for case in ['center', 'right', 'left']:
 
-                    mean_value = np.mean(tmp_df[(tmp_df['rile'] == case)]["relative_matches_model"])
-                    std_value = np.std(tmp_df[(tmp_df['rile'] == case)]["relative_matches_model"])
+                    mean_value = np.mean(tmp_df[(tmp_df['rile'] == case)]["relative_matches_stats"])
+                    std_value = np.std(tmp_df[(tmp_df['rile'] == case)]["relative_matches_stats"])
                     model_index = sorting.index(model)
 
                     if case == 'center':
