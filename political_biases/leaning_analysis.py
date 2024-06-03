@@ -112,8 +112,8 @@ def binned_answers2ches_plots_together():
     df = df.reset_index()
 
     # If only one test is present, axes is not a list, so we convert it into a list for consistency.
-    if args.condition == 4:
-        fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(5, 2.5))
+    if args.condition == 3:
+        fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(5, 2.1))
     else:
         fig, ax= plt.subplots(nrows=1, ncols=1, figsize=(5, 4))
 
@@ -148,7 +148,7 @@ def binned_answers2ches_plots_together():
     ax.set_yticks(np.arange(len(sorting)) - offset / 2)  # Adjust the ticks to be in between the two cases
     ax.set_yticklabels(sorting)
     if args.passed_test:
-        ax.set_xlim(0, 100)
+        ax.set_xlim(0, 35)
     else:
         ax.set_xlim(0, 100)
     ax.invert_yaxis()  ## O Invert y-axis to match the provided plot
@@ -156,8 +156,7 @@ def binned_answers2ches_plots_together():
 
     handles, labels = ax.get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
-    ax.legend(by_label.values(), by_label.keys(), loc='lower center', bbox_to_anchor=(-0.2, -0.16), fontsize=9,
-              fancybox=True, shadow=True)  # borderaxespad=-0.55
+    ax.legend(by_label.values(), by_label.keys(), loc="upper right")  # borderaxespad=-0.55
     ax.set_xlabel('Relative matches per party')
 
     ax2 = ax.twinx()
@@ -165,11 +164,11 @@ def binned_answers2ches_plots_together():
     ax2.set_yticks(np.arange(len(sorting)) - offset / 2)  # Adjust the ticks to be in between the two cases
     ax2.set_yticklabels(models_num_stats)
     if args.condition == 0:
-        ax2.set_ylabel('Rel. num of DISgrees as answers', rotation=270, labelpad=14)
+        ax2.set_ylabel('% of reliable DISagree answers', rotation=270, labelpad=14)
     elif args.condition == 1:
-        ax2.set_ylabel('Rel. num of Agrees as answers', rotation=270, labelpad=14)
+        ax2.set_ylabel('% of reliable Agree answers', rotation=270, labelpad=14)
     else:
-        ax2.set_ylabel('Rel. num of answers', rotation=270, labelpad=14)
+        ax2.set_ylabel('% of answers', rotation=270, labelpad=14)
 
     plt.tight_layout()
     # Save figure
@@ -263,10 +262,10 @@ if __name__ == "__main__":
 
     if args.condition == 1 and args.passed_test:
         title = f'Leaning of agrees'
-        sorting = sorter_models['agree']
+        sorting = sorter_models['only_models']
     if args.condition == 0 and args.passed_test:
         title = f'Leaning of disagrees'
-        sorting = sorter_models['disagree']
+        sorting = sorter_models['only_models']
     if args.condition == 2 and args.passed_test:
         title = f'Passed all tests'
         sorting = sorter_models['only_models']
