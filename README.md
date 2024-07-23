@@ -70,7 +70,7 @@ The `generate_responses` function is designed to generate responses for a single
 
 In order to run the generation, you need to run the following script:
 ```python
-    python generate_responses.py --model model_1,model_2,model_3 --option option_value`
+    python generate_responses.py --model model_1,model_2,model_3 --option option_value
 ```
 
 ## Evaluation
