@@ -54,9 +54,23 @@ If you want to run the evaluation code, place the `prompt_answers` and `datafram
 
 ## Run models to generate answers given prompts
 
-The code to run the models can be found in the `prompting` folder. The code is based on the Hugging Face transformers library.
+The code for answer generation can be found in the `prompting` folder. The code is based on the Hugging Face transformers library.
 
-[...]
+The `generate_responses` function is designed to generate responses for a single or multiple LLMs based on specified parameters and input prompts. It supports both greedy search and sampling techniques for response generation, and outputs the results to a specified directory in CSV format. Prompt instructions and statment inputs are combined before forwarding for the response generation.
+
+### Function workflow
+
+1. Set Seed: Set the random seed for reproducibility.
+2. Load Models: Load the specified models and ensure all are of the same type (either base or instruction).
+3. Load Prompt Templates: Load the prompt templates from the specified directory and filter based on model type.
+4. Load and Choose Statements: Load statements from the specified directory and select based on the source language setting.
+5. Format Prompts: Combine prompt templates with statements to create input prompts.
+6. Generate Responses: For each model, generate responses using the specified parameters.
+7. Save Responses: Format and save the generated responses to a CSV file. Also, save the computation time and other metadata to a JSON file.
+
+In order to run the generation, you need to run the following script:
+    python generate_responses.py --model model_1,model_2,model_3 --option option_value`
+
 
 ## Evaluation
 

@@ -2,12 +2,12 @@ import fire
 import torch
 import pandas as pd
 
-from models.hugging_face_llm import hf_loader, CausalLLM, Seq2SeqLLM
-from models.llm_dict import llm_dict
+from prompting.huggingface_llm_wrapper import hf_loader, CausalLLM, Seq2SeqLLM
+from prompting.llm_dict import llm_dict
 
 from itertools import product
 
-def run_model(model_type: str, #llama-2-13b
+def generate_responses_interacitive(model_type: str, #llama-2-13b
               temperature: float = 1.0,
               top_p: float = 1.0,
               max_gen_len: int = 20,
@@ -65,7 +65,7 @@ def run_model(model_type: str, #llama-2-13b
 
 if __name__ == "__main__":
     '''
-    Usage example: torchrun --nproc_per_node 1 models/run_model.py --model_type 7B --option option_value
+    Usage example: torchrun --nproc_per_node 1 models/generate_responses_interacitive.py --model_type 7B --option option_value
 
     --model_type:
         - LLama:        7B  / 13B / 30B / 65B
@@ -79,4 +79,4 @@ if __name__ == "__main__":
         - 65B/70B -> 8
 
     '''
-    fire.Fire(run_model)
+    fire.Fire(generate_responses_interacitive)

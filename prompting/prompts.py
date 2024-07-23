@@ -110,16 +110,3 @@ class FewShotPrompt(Prompt):
             formatted_responses.append(p)
         
         return formatted_responses
-
-class DialogPrompt(Prompt):
-    def __init__(self):
-        super().__init__()
-    
-    def generate_prompt(self):
-        pass
-
-    def generate_prompt_batch(self):
-        pass
-
-    def format_prompt(self):
-        pass

@@ -7,14 +7,14 @@ import time
 from transformers import set_seed
 from pathlib import Path
 
-from models.hugging_face_llm import hf_loader, CausalLLM, Seq2SeqLLM
-from models.llm_dict import llm_dict
+from prompting.huggingface_llm_wrapper import hf_loader, CausalLLM, Seq2SeqLLM
+from llm_dict import llm_dict
 from utils.format_prompts import format_prompts
 from utils.generate_dir_name import generate_dir_name
-from statement_retrieval import StatementRetriever
+from reliability.statement_retrieval import StatementRetriever
 
 
-def run_hf_model(model: [str], 
+def generate_reponses(model: [str], 
                  do_sample: bool = True,      # False = greedy search / True = sampling              
                  temperature: float = 1.0,    
                  top_p: float = 0.85,          
@@ -22,8 +22,8 @@ def run_hf_model(model: [str],
                  max_gen_len: int = 20,
                  num_return_sequences: int = 30,
                  seed: int = 42,
-                 is_src_prompt: bool = False,              # True - source lang | False - english translations
-                 is_src_statement: bool = True,            # True -source lang  | False - english translations
+                 is_src_prompt: bool = False,              # True - source language | False - english translations
+                 is_src_statement: bool = True,            # True - source language | False - english translations
                  template_dir : str = 'data/prompt_instructions/classification_prompts/en_clf_templates_final.csv',
                  statement_dir: str = 'data/vaa/all_unique_missing.csv',
                  output_dir: str = 'data/responses/final/generation_llama-2-70b_en_missing.csv'
@@ -137,11 +137,11 @@ def run_hf_model(model: [str],
 
 if __name__ == "__main__":
     
-    # How to run: python run_hf_model.py --model model1,model2,model3 
+    # How to run: python generate_reponses.py --model model1,model2,model3 
     #     - If you are running the script for src languages add: --is_src_statement=True
     #     - If you are running the script for English language add: --is_src_statement=False
     #     - If you are running the script for src prompts add: --is_src_prompt=True
     #     - If you are running the script for English prompts add: --is_src_prompt=False
 
     # All other hyperparameter values are set so no need to change them 
-    fire.Fire(run_hf_model)
+    fire.Fire(generate_reponses)
