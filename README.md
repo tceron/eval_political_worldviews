@@ -69,7 +69,9 @@ The `generate_responses` function is designed to generate responses for a single
 7. Save Responses: Format and save the generated responses to a CSV file. Also, save the computation time and other metadata to a JSON file.
 
 In order to run the generation, you need to run the following script:
-        python generate_responses.py --model model_1,model_2,model_3 --option option_value
+```python
+python generate_responses.py --model model_1,model_2,model_3 --option option_value
+```
 
 
 ## Evaluation
