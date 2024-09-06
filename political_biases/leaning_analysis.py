@@ -148,7 +148,7 @@ def binned_answers2ches_plots_together():
     ax.set_yticks(np.arange(len(sorting)) - offset / 2)  # Adjust the ticks to be in between the two cases
     ax.set_yticklabels(sorting)
     if args.passed_test:
-        ax.set_xlim(0, 35)
+        ax.set_xlim(0, 50)
     else:
         ax.set_xlim(0, 100)
     ax.invert_yaxis()  ## O Invert y-axis to match the provided plot

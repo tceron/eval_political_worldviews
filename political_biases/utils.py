@@ -26,7 +26,7 @@ models_renamed = {"mistral-7b-chat": "MISTRAL-7b", 'flan-tf-xxl-chat': "FLAN-T5-
 sorter_models ={'disagree':['alwaysDISagree', 'RANDOM','MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
                 'agree':['alwaysAgree', 'RANDOM', 'MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
                 'only_models':['MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
-                'all':['alwaysDISagree', 'alwaysAgree', 'RANDOM','MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
+                'all':['alwaysDISagree', 'alwaysAgree', 'MISTRAL-7b', 'LLAMA2-7b', 'FLAN-T5-XXL-11b', 'LLAMA2-13b', "GPT3.5-turbo-20b", 'LLAMA2-70b'],
                 'simulations':['alwaysDISagree', 'alwaysAgree']}
 
 color_models = {'alwaysDISagree':'violet', 'alwaysAgree':'olive', 'RANDOM':'navy', 'MISTRAL-7b':"red", 'LLAMA2-7b':"green", 'FLAN-T5-XXL-11b':"purple",
