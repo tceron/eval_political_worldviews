@@ -25,8 +25,8 @@ def generate_reponses(model: [str],
                  is_src_prompt: bool = False,              # True - source language | False - english translations
                  is_src_statement: bool = True,            # True - source language | False - english translations
                  template_dir : str = 'data/prompt_instructions/classification_prompts/en_clf_templates_final.csv',
-                 statement_dir: str = 'data/vaa/all_unique_missing.csv',
-                 output_dir: str = 'data/responses/final/generation_llama-2-70b_en_missing.csv'
+                 statement_dir: str = 'data/vaa/probvaa.csv',
+                 output_dir: str = 'data/responses/final/generation_llama-2-70b_en.csv'
               ):
     
     # Step 0: Set seed or reproducibility (you don't need this unless you want full reproducibility)
