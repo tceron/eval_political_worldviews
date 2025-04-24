@@ -34,7 +34,7 @@ ProbVAA is a compilation of voting advice applications (VAAs). The folders below
     * `annotations_spiderweb_gold.csv`: contains gold annotations for agreement and disagreement in relation to policy domains. It's part of the domain specific analysis from section 7 of the paper.
     * `survey_vaas.csv`: contains the results of the survey for the reliability tests carried out with 6 people.
 * `data/vaa`: contains invidual files per country. Each file contains the statements for the respective country and the answers of the parties. 
-    * `all_unique.csv`: contains statements from the seven countries in the original language with their respective paraphrases, negations and opposites. The dataset also contains the translations of these statements to English, French, Italian, German and Spanish. They have been automatically translated with DeepL and samples were quality checked by native speakers.
+    * `provaa.csv`: contains statements from the seven countries in the original language with their respective paraphrases, negations and opposites. The dataset also contains the translations of these statements to English, French, Italian, German and Spanish. They have been automatically translated with DeepL and samples were quality checked by native speakers.
 
 ### Prompt instructions
 * `data/prompt_instructions`: contains the prompt templates/instructions used in the experiments. The data is split into the following files:
