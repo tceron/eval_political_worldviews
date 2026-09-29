@@ -28,7 +28,7 @@ The data from the Chapel Hill Expert Survey can be found [here](https://www.ches
 # Data
 
 ### ProbVAA
-ProbVAA is a compilation of voting advice applications (VAAs). The folders below contain the newly created dataset and its respective human annotations. 
+ProbVAA (now available on the [huggingface hub](https://huggingface.co/datasets/tceron/probvaa)) is a compilation of voting advice applications (VAAs). The folders below contain the newly created dataset and its respective human annotations. 
 
 * `data/human_annotations`: contains the data from the human annotations. The data is split into the following files:
     * `annotations_spiderweb_gold.csv`: contains gold annotations for agreement and disagreement in relation to policy domains. It's part of the domain specific analysis from section 7 of the paper.
